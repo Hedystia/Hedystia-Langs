@@ -1,3 +1,3 @@
-## Only what is in {} or ${} is translated, nor emojis.
+## The {} or ${} or emojis are not translated.
 
-## Solo se traduce lo que este en {} o ${}, ni los emojis.
+## Los {} o ${} o los emojis no se traducen.
