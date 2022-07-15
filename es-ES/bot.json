@@ -1,5 +1,5 @@
 {
-    "nodb": "<a:equis:934904102679371856> | Se le añadio a la base de datos en este apartado usa el comando nuevamente!",
+    "nodb": "<a:equis:934904102679371856> | Hubo un problema usa el comando de nuevo!",
     "disabled_command": "<a:equis:934904102679371856> | Ese comando se encuentra desactivado en este servidor!",
     "permisos": {
         "VIEW_CHANNEL": "<a:equis:934904102679371856> | Necesito el permiso de ViewChannel para ver ese canal!",
@@ -227,7 +227,7 @@
         "interchat": {
             "inter1": "<a:paloma:934928358461046897> | Se puso correctamente en el canal:",
             "inter2": "<a:equis:934904102679371856> | Este servidor ya esta puesto en la opcion:",
-            "inter3": "<a:paloma:934928358461046897> | Se acaba de añadir tu id usa el comando de nuevo!",
+            "inter3": "<a:equis:934904102679371856> | Hubo un problema usa el comando de nuevo!",
             "inter4": "<a:equis:934904102679371856> | Necesitas usar el comando en el servidor donde se vinculo si te banearon o algo favor de abrir ticket en el siguiente boton!",
             "inter5": "<a:paloma:934928358461046897> | Listo se acaba de desvincular!",
             "inter6": "<a:equis:934904102679371856> | No has colocado nada en esta opcion!",
@@ -338,7 +338,7 @@
                     "t2": "<a:paloma:934928358461046897> | Se acaba de desactivar este boton!"
                 }
             },
-            "db_add": "<a:paloma:934928358461046897> | Se añadio tu servidor al apartado de tickets!",
+            "db_add": "<a:equis:934904102679371856> | Hubo un problema usa el comando de nuevo!",
             "support": {
                 "s1": "<a:equis:934904102679371856> | Debes de mandar el id del rol de soporte!",
                 "s2": "<a:paloma:934928358461046897> | Se acaba de actualizar el rol de soporte con exito!"

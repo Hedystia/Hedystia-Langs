@@ -1,5 +1,5 @@
 {
-    "nodb": "<a:equis:934904102679371856> | It was added to the database in this section using the command again!",
+    "nodb": "<a:equis:934904102679371856> | There was a problem use the command again!",
     "disabled_command": "<a:equis:934904102679371856> | This command is disabled on this server!",
     "permisos": {
         "VIEW_CHANNEL": "<a:equis:934904102679371856> | I need ViewChannel permission to watch that channel!",
@@ -227,7 +227,7 @@
         "interchat": {
             "inter1": "<a:paloma:934928358461046897> | It was correctly placed in the channel:",
             "inter2": "<a:equis:934904102679371856> | This server is already set in the option:",
-            "inter3": "<a:paloma:934928358461046897> | Your id has just been added use the command again!",
+            "inter3": "<a:equis:934904102679371856> | There was a problem use the command again!",
             "inter4": "<a:equis:934904102679371856> | You need to use the command on the server where you linked if you got banned or something please open ticket on the following button!",
             "inter5": "<a:paloma:934928358461046897> | Ready, you have just unlinked!",
             "inter6": "<a:equis:934904102679371856> | You have not placed anything in this option!",
@@ -338,7 +338,7 @@
                     "t2": "<a:paloma:934928358461046897> | This button has just been deactivated!"
                 }
             },
-            "db_add": "<a:paloma:934928358461046897> | Your server has been added to the ticket section!",
+            "db_add": "<a:equis:934904102679371856> | There was a problem use the command again!",
             "support": {
                 "s1": "<a:equis:934904102679371856> | You must send the id of the support role!",
                 "s2": "<a:paloma:934928358461046897> | Just updated the support role successfully!"
