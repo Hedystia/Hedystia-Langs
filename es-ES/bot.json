@@ -130,7 +130,7 @@
     "help42": "Muestra los comandos de matrimonio",
     "helpcollect": {
       "info1": "Informacion",
-      "info2": "**Comandos <a:flecha:900166837436821527>**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact```",
+      "info2": "**Comandos <a:flecha:900166837436821527>**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact\nuserinfo```",
       "util1": "Utilidad",
       "util2": "**Comandos <a:flecha:900166837436821527>**\n```avatar ∫ banner ∫ bigemoji\navserver ∫ servericon```",
       "mod1": "Moderacion",
@@ -144,7 +144,7 @@
       "ticket1": "Tickets",
       "ticket2": "**Comandos <a:flecha:900166837436821527>**\n```tickets ∫ panel ∫ close\n```",
       "image1": "Imagenes",
-      "image2": "**Comandos <a:flecha:900166837436821527>**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete```",
+      "image2": "**Comandos <a:flecha:900166837436821527>**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete ∫ jail```",
       "marry1": "Matrimonio",
       "marry2": "**Comandos <a:flecha:900166837436821527>**\n```marry ∫ divorce\n```"
     },
@@ -163,7 +163,7 @@
     "invite4": "Soporte",
     "botinfo1": "Privacidad",
     "botinfo2": "Terminos",
-    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Total de usuarios:**__ {users}\n__**Total de canales:**__ {channels}\n__**Comandos publicos:**__ 61\n__**Comandos slash:**__ 1\n__**Categorias del dashboard:**__ 3\n__**Opciones del dashboard:**__ 7\n__**Libreria:**__ Discord.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
+    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Total de usuarios:**__ {users}\n__**Total de canales:**__ {channels}\n__**Comandos publicos:**__ 64\n__**Comandos slash:**__ 1\n__**Categorias del dashboard:**__ 4\n__**Opciones del dashboard:**__ 8\n__**Libreria:**__ Discord.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
     "contact1": "Para contactar a mi creador debes abrir un ticket en el siguiente servidor"
   },
   "utility": {

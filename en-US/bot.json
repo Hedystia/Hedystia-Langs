@@ -130,7 +130,7 @@
     "help42": "Displays the marriage commands",
     "helpcollect": {
       "info1": "Information",
-      "info2": "**Commands <a:flecha:900166837436821527>**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact```",
+      "info2": "**Commands <a:flecha:900166837436821527>**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact\nuserinfo```",
       "util1": "Utility",
       "util2": "**Commands <a:flecha:900166837436821527>**\n```avatar ∫ banner ∫ bigemoji\navserver ∫ servericon```",
       "mod1": "Moderation",
@@ -144,7 +144,7 @@
       "ticket1": "Tickets",
       "ticket2": "**Commands <a:flecha:900166837436821527>**\n```tickets ∫ panel ∫ close\n```",
       "image1": "Images",
-      "image2": "**Commands <a:flecha:900166837436821527>**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete```",
+      "image2": "**Commands <a:flecha:900166837436821527>**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete ∫ jail```",
       "marry1": "Marriage",
       "marry2": "**Commands <a:flecha:900166837436821527>**\n```marry ∫ divorce\n```"
     },
@@ -163,7 +163,7 @@
     "invite4": "Support",
     "botinfo1": "Privacy",
     "botinfo2": "Terms",
-    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Total users:**__ {users}\n__**Total channels:**__ {channels}\n__**Public commands:**__ 61\n__**Slash commands:**__ 1\n__**Dashboard categories:**__ 3\n__**Dashboard options:**__ 7\n__**Bookstore:**__ Discord.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
+    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Total users:**__ {users}\n__**Total channels:**__ {channels}\n__**Public commands:**__ 64\n__**Slash commands:**__ 1\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Discord.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
     "contact1": "To contact my creator you must open a ticket on the following server"
   },
   "utility": {

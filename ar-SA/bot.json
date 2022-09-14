@@ -130,7 +130,7 @@
     "help42": "يشغل اوامر الزواج",
     "helpcollect": {
       "info1": "المعلومات",
-      "info2": "**اوامر <a:flecha:900166837436821527>**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact```",
+      "info2": "**اوامر <a:flecha:900166837436821527>**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact\nuserinfo```",
       "util1": "الاوامر العامه",
       "util2": "**الاوامر <a:flecha:900166837436821527>**\n```avatar ∫ banner ∫ bigemoji\navserver ∫ servericon```",
       "mod1": "الاشراف",
@@ -144,7 +144,7 @@
       "ticket1": "التيكتات",
       "ticket2": "**الاوامر <a:flecha:900166837436821527>**\n```tickets ∫ panel ∫ close\n```",
       "image1": "الصور",
-      "image2": "**الاوامر <a:flecha:900166837436821527>**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete```",
+      "image2": "**الاوامر <a:flecha:900166837436821527>**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete ∫ jail```",
       "marry1": "الزواج",
       "marry2": "**الاوامر <a:flecha:900166837436821527>**\n```marry ∫ divorce\n```"
     },
@@ -163,7 +163,7 @@
     "invite4": "الدعم",
     "botinfo1": "الخصوصيه",
     "botinfo2": "الشروط",
-    "botinfo3": "__**الموْسس:**__ Zastinian#8451\n__**عدد السيرفرات:**__ {servers}\n__**عدد المستخدمين:**__ {users}\n__**عدد الرومات:**__ {channels}\n__**الاوامر العامه:**__ 61\n__**اوامر السلاش:**__ 1\n__**فىْات لوحة التحكم:**__ 3\n__**اختيارات لوحة التحكم:**__ 7\n__**المكتبه:**__ Discord.js\n__**اصدار المكتبه:**__ v{versionlib}\n__**اصدار NodeJS:**__ v{nodeversion}\n__**البينق:**__ {ping}ms\n__**تاريخ الانشاء:**__ {createat}",
+    "botinfo3": "__**الموْسس:**__ Zastinian#8451\n__**عدد السيرفرات:**__ {servers}\n__**عدد المستخدمين:**__ {users}\n__**عدد الرومات:**__ {channels}\n__**الاوامر العامه:**__ 64\n__**اوامر السلاش:**__ 1\n__**فىْات لوحة التحكم:**__ 4\n__**اختيارات لوحة التحكم:**__ 8\n__**المكتبه:**__ Discord.js\n__**اصدار المكتبه:**__ v{versionlib}\n__**اصدار NodeJS:**__ v{nodeversion}\n__**البينق:**__ {ping}ms\n__**تاريخ الانشاء:**__ {createat}",
     "contact1": "للتواصل مع المطور يجب عليك ان تقوم بفتح تيكت من السيرفر المقابل"
   },
   "utility": {
