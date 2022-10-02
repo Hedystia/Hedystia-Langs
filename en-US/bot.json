@@ -136,7 +136,7 @@
       "mod1": "Moderation",
       "mod2": "**Commands <a:flecha:900166837436821527>**\n```ban ∫ unban ∫ kick\nlock ∫ unlock ∫ clear\nnuke ∫ timeout ∫ untimeout```",
       "config1": "Configuration",
-      "config2": "**Commands <a:flecha:900166837436821527>**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand```",
+      "config2": "**Commands <a:flecha:900166837436821527>**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand  ∫ setlang```",
       "inter1": "Interaction",
       "inter2": "**Commands <a:flecha:900166837436821527>**\n```kiss ∫ hug ∫ pat\nslap ∫ smug ∫ feed```",
       "eco1": "Economy",
@@ -163,7 +163,7 @@
     "invite4": "Support",
     "botinfo1": "Privacy",
     "botinfo2": "Terms",
-    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Total users:**__ {users}\n__**Total channels:**__ {channels}\n__**Public commands:**__ 64\n__**Slash commands:**__ 1\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Discord.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
+    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Total users:**__ {users}\n__**Total channels:**__ {channels}\n__**Public commands:**__ 64\n__**Slash commands:**__ 1\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Esmile.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
     "contact1": "To contact my creator you must open a ticket on the following server"
   },
   "utility": {

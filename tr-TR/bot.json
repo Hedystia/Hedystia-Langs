@@ -136,7 +136,7 @@
       "mod1": "Moderasyon",
       "mod2": "**Komutlar <a:flecha:900166837436821527>**\n```ban ∫ unban ∫ kick\nlock ∫ unlock ∫ clear\nnuke ∫ timeout ∫ untimeout```",
       "config1": "Konfigürasyon",
-      "config2": "**Komutlar <a:flecha:900166837436821527>**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand```",
+      "config2": "**Komutlar <a:flecha:900166837436821527>**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand  ∫ setlang```",
       "inter1": "Etkileşim",
       "inter2": "**Komutlar <a:flecha:900166837436821527>**\n```kiss ∫ hug ∫ pat\nslap ∫ smug ∫ feed```",
       "eco1": "Ekonomi",
@@ -163,7 +163,7 @@
     "invite4": "Destek",
     "botinfo1": "Gizlilik",
     "botinfo2": "Şartlar",
-    "botinfo3": "__**Yaratıcı:**__ Zastinian#8451\n__**Toplam sunucular:**__ {servers}\n__**Toplam kullanıcı:**__ {users}\n__**Toplam kanal sayısı:**__ {channels}\n__**Kamu komutları:**__ 64\n__**Eğik çizgi komutları:**__ 1\n__**Dashboard categories:**__ 4\n__**Gösterge tablosu seçenekleri:**__ 8\n__**Kitapçı:**__ Discord.js\n__**Kütüphane versiyonu:**__ v{versionlib}\n__**NodeJs Sürümü:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Oluşturuldu:**__ {createat}",
+    "botinfo3": "__**Yaratıcı:**__ Zastinian#8451\n__**Toplam sunucular:**__ {servers}\n__**Toplam kullanıcı:**__ {users}\n__**Toplam kanal sayısı:**__ {channels}\n__**Kamu komutları:**__ 64\n__**Eğik çizgi komutları:**__ 1\n__**Dashboard categories:**__ 4\n__**Gösterge tablosu seçenekleri:**__ 8\n__**Kitapçı:**__ Esmile.js\n__**Kütüphane versiyonu:**__ v{versionlib}\n__**NodeJs Sürümü:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Oluşturuldu:**__ {createat}",
     "contact1": "Yaratıcımla iletişime geçmek için aşağıdaki sunucuda bir bilet açmalısınız"
   },
   "utility": {

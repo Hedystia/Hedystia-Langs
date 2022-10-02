@@ -136,7 +136,7 @@
       "mod1": "Moderacion",
       "mod2": "**Comandos <a:flecha:900166837436821527>**\n```ban ∫ unban ∫ kick\nlock ∫ unlock ∫ clear\nnuke ∫ timeout ∫ untimeout```",
       "config1": "Configuracion",
-      "config2": "**Comandos <a:flecha:900166837436821527>**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand```",
+      "config2": "**Comandos <a:flecha:900166837436821527>**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand  ∫ setlang```",
       "inter1": "Interaccion",
       "inter2": "**Comandos <a:flecha:900166837436821527>**\n```kiss ∫ hug ∫ pat\nslap ∫ smug ∫ feed```",
       "eco1": "Economia",
@@ -163,7 +163,7 @@
     "invite4": "Soporte",
     "botinfo1": "Privacidad",
     "botinfo2": "Terminos",
-    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Total de usuarios:**__ {users}\n__**Total de canales:**__ {channels}\n__**Comandos publicos:**__ 64\n__**Comandos slash:**__ 1\n__**Categorias del dashboard:**__ 4\n__**Opciones del dashboard:**__ 8\n__**Libreria:**__ Discord.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
+    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Total de usuarios:**__ {users}\n__**Total de canales:**__ {channels}\n__**Comandos publicos:**__ 64\n__**Comandos slash:**__ 1\n__**Categorias del dashboard:**__ 4\n__**Opciones del dashboard:**__ 8\n__**Libreria:**__ Esmile.js.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
     "contact1": "Para contactar a mi creador debes abrir un ticket en el siguiente servidor"
   },
   "utility": {

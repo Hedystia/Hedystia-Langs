@@ -136,7 +136,7 @@
       "mod1": "الاشراف",
       "mod2": "**الاوامر <a:flecha:900166837436821527>**\n```ban ∫ unban ∫ kick\nlock ∫ unlock ∫ clear\nnuke ∫ timeout ∫ untimeout```",
       "config1": "الترتيب",
-      "config2": "**الاوامر <a:flecha:900166837436821527>**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand```",
+      "config2": "**الاوامر <a:flecha:900166837436821527>**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand  ∫ setlang```",
       "inter1": "التفاعل",
       "inter2": "**الاوامر <a:flecha:900166837436821527>**\n```kiss ∫ hug ∫ pat\nslap ∫ smug ∫ feed```",
       "eco1": "الاقتصاد",
@@ -163,7 +163,7 @@
     "invite4": "الدعم",
     "botinfo1": "الخصوصيه",
     "botinfo2": "الشروط",
-    "botinfo3": "__**الموْسس:**__ Zastinian#8451\n__**عدد السيرفرات:**__ {servers}\n__**عدد المستخدمين:**__ {users}\n__**عدد الرومات:**__ {channels}\n__**الاوامر العامه:**__ 64\n__**اوامر السلاش:**__ 1\n__**فىْات لوحة التحكم:**__ 4\n__**اختيارات لوحة التحكم:**__ 8\n__**المكتبه:**__ Discord.js\n__**اصدار المكتبه:**__ v{versionlib}\n__**اصدار NodeJS:**__ v{nodeversion}\n__**البينق:**__ {ping}ms\n__**تاريخ الانشاء:**__ {createat}",
+    "botinfo3": "__**الموْسس:**__ Zastinian#8451\n__**عدد السيرفرات:**__ {servers}\n__**عدد المستخدمين:**__ {users}\n__**عدد الرومات:**__ {channels}\n__**الاوامر العامه:**__ 64\n__**اوامر السلاش:**__ 1\n__**فىْات لوحة التحكم:**__ 4\n__**اختيارات لوحة التحكم:**__ 8\n__**المكتبه:**__ Esmile.js\n__**اصدار المكتبه:**__ v{versionlib}\n__**اصدار NodeJS:**__ v{nodeversion}\n__**البينق:**__ {ping}ms\n__**تاريخ الانشاء:**__ {createat}",
     "contact1": "للتواصل مع المطور يجب عليك ان تقوم بفتح تيكت من السيرفر المقابل"
   },
   "utility": {
