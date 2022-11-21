@@ -132,7 +132,7 @@
       "info1": "Informacion",
       "info2": "**Comandos <a:flecha:900166837436821527>**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact\nuserinfo```",
       "util1": "Utilidad",
-      "util2": "**Comandos <a:flecha:900166837436821527>**\n```avatar ∫ banner ∫ bigemoji\navserver ∫ servericon```",
+      "util2": "**Comandos <a:flecha:900166837436821527>**\n```avatar ∫ banner ∫ bigemoji\navserver ∫ servericon ∫ addemoji```",
       "mod1": "Moderacion",
       "mod2": "**Comandos <a:flecha:900166837436821527>**\n```ban ∫ unban ∫ kick\nlock ∫ unlock ∫ clear\nnuke ∫ timeout ∫ untimeout```",
       "config1": "Configuracion",
@@ -140,7 +140,7 @@
       "inter1": "Interaccion",
       "inter2": "**Comandos <a:flecha:900166837436821527>**\n```kiss ∫ hug ∫ pat\nslap ∫ smug ∫ feed```",
       "eco1": "Economia",
-      "eco2": "**Comandos <a:flecha:900166837436821527>**\n```daily ∫ deposit ∫ newuser\nwithdraw ∫ work ∫ beg\ncrime ∫ profile```",
+      "eco2": "**Comandos <a:flecha:900166837436821527>**\n```daily ∫ deposit ∫ newuser\nwithdraw ∫ work ∫ beg\ncrime ∫ profile ∫ hunt```",
       "ticket1": "Tickets",
       "ticket2": "**Comandos <a:flecha:900166837436821527>**\n```tickets ∫ panel ∫ close\n```",
       "image1": "Imagenes",
@@ -163,7 +163,7 @@
     "invite4": "Soporte",
     "botinfo1": "Privacidad",
     "botinfo2": "Terminos",
-    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Total de usuarios:**__ {users}\n__**Total de canales:**__ {channels}\n__**Comandos publicos:**__ 64\n__**Comandos slash:**__ 1\n__**Categorias del dashboard:**__ 4\n__**Opciones del dashboard:**__ 8\n__**Libreria:**__ Esmile.js.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
+    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Comandos publicos:**__ 66\n__**Comandos slash:**__ 15\n__**Categorias del dashboard:**__ 4\n__**Opciones del dashboard:**__ 8\n__**Libreria:**__ Esmile.js.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
     "contact1": "Para contactar a mi creador debes abrir un ticket en el siguiente servidor"
   },
   "utility": {
@@ -178,7 +178,8 @@
     "banner2": "<a:paloma:934928358461046897> | Color de banner de",
     "banner3": "<a:equis:934904102679371856> | Usted o el usuario mencionado no tienen un banner o color personalizado!",
     "emoji1": "<a:paloma:934928358461046897> | Emoji agrandado con exito!",
-    "emoji2": "<a:equis:934904102679371856> | No puede encontrar ese emoji!"
+    "emoji2": "<a:equis:934904102679371856> | No puede encontrar ese emoji!",
+    "emoji3": "<a:paloma:934928358461046897> | ¡Emoji añadido con éxito!"
   },
   "event": {
     "antichannel": {
@@ -228,10 +229,9 @@
       "inter1": "<a:paloma:934928358461046897> | Se puso correctamente en el canal:",
       "inter2": "<a:equis:934904102679371856> | Este servidor ya esta puesto en la opcion:",
       "inter3": "<a:equis:934904102679371856> | Hubo un problema usa el comando de nuevo!",
-      "inter4": "<a:equis:934904102679371856> | Necesitas usar el comando en el servidor donde se vinculo si te banearon o algo favor de abrir ticket en el siguiente boton!",
+      "inter4": "<a:equis:934904102679371856> | Este comando se utiliza en el servidor donde fue establecido el interchat, si te banearon o paso algo puedes usar el comando {0} para eliminar todos los canales y servidores vinculados a tu cuenta",
       "inter5": "<a:paloma:934928358461046897> | Listo se acaba de desvincular!",
       "inter6": "<a:equis:934904102679371856> | No has colocado nada en esta opcion!",
-      "inter7": "<a:equis:934904102679371856> | Este comando solo se puede ejecutar en el servidor donde vinculaste esta opcion si te banearon o paso algo abre ticket en el siguiente boton!",
       "mention": {
         "true": "<a:paloma:934928358461046897> | Ahora el bot funcionaran mediante mencion en este apartado!",
         "false": "<a:paloma:934928358461046897> | Ahora el bot no funcionara mediante mencion en este apartado!"
@@ -288,6 +288,10 @@
     "rob": {
       "rob_correct": "<a:moneyfly:950559709709086730> | Tu robo fue un exito, de una forma u otra ganaste: ",
       "rob_fail": "<a:equis:934904102679371856> | No puede ser tu robo fallo, lo que lograste agarrar te lo quito la policia y te cobro lo mismo de comision para dejarte ir! Te quitaron: "
+    },
+    "hunt": {
+      "hunt_correct": "<a:paloma:934928358461046897> | Acabas de cazar un {0}, has ganado ¥{1} yenes",
+      "hunt_fail": "<a:equis:934904102679371856> | Un animal peligroso te ha atacado, te quito ¥{0} yenes"
     }
   },
   "tickets": {
@@ -370,6 +374,7 @@
     "error_send": "<a:equis:934904102679371856> | No has configurado el apartado no lo puedo mandar."
   },
   "antilinks": "{0} No se permiten enlaces en este servidor!",
+  "antinsfw": "{0} No mandes ese tipo de imagenes!",
   "marry": {
     "marry": {
       "m1": "<a:equis:934904102679371856> | Debes de mencionar a un usuario para casarte!",

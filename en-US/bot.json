@@ -132,7 +132,7 @@
       "info1": "Information",
       "info2": "**Commands <a:flecha:900166837436821527>**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact\nuserinfo```",
       "util1": "Utility",
-      "util2": "**Commands <a:flecha:900166837436821527>**\n```avatar ∫ banner ∫ bigemoji\navserver ∫ servericon```",
+      "util2": "**Commands <a:flecha:900166837436821527>**\n```avatar ∫ banner ∫ bigemoji\navserver ∫ servericon ∫ addemoji```",
       "mod1": "Moderation",
       "mod2": "**Commands <a:flecha:900166837436821527>**\n```ban ∫ unban ∫ kick\nlock ∫ unlock ∫ clear\nnuke ∫ timeout ∫ untimeout```",
       "config1": "Configuration",
@@ -140,7 +140,7 @@
       "inter1": "Interaction",
       "inter2": "**Commands <a:flecha:900166837436821527>**\n```kiss ∫ hug ∫ pat\nslap ∫ smug ∫ feed```",
       "eco1": "Economy",
-      "eco2": "**Commands <a:flecha:900166837436821527>**\n```daily ∫ deposit ∫ newuser\nwithdraw ∫ work ∫ beg\ncrime ∫ profile```",
+      "eco2": "**Commands <a:flecha:900166837436821527>**\n```daily ∫ deposit ∫ newuser\nwithdraw ∫ work ∫ beg\ncrime ∫ profile ∫ hunt```",
       "ticket1": "Tickets",
       "ticket2": "**Commands <a:flecha:900166837436821527>**\n```tickets ∫ panel ∫ close\n```",
       "image1": "Images",
@@ -163,7 +163,7 @@
     "invite4": "Support",
     "botinfo1": "Privacy",
     "botinfo2": "Terms",
-    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Total users:**__ {users}\n__**Total channels:**__ {channels}\n__**Public commands:**__ 64\n__**Slash commands:**__ 1\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Esmile.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
+    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Public commands:**__ 66\n__**Slash commands:**__ 15\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Esmile.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
     "contact1": "To contact my creator you must open a ticket on the following server"
   },
   "utility": {
@@ -178,7 +178,8 @@
     "banner2": "<a:paloma:934928358461046897> | Banner color of",
     "banner3": "<a:equis:934904102679371856> | You or the named user do not have a custom banner or color!",
     "emoji1": "<a:paloma:934928358461046897> | Emoji successfully enlarged!",
-    "emoji2": "<a:equis:934904102679371856> | Can't find that emoji!"
+    "emoji2": "<a:equis:934904102679371856> | Can't find that emoji!",
+    "emoji3": "<a:paloma:934928358461046897> | Emoji successfully added!"
   },
   "event": {
     "antichannel": {
@@ -228,10 +229,9 @@
       "inter1": "<a:paloma:934928358461046897> | It was correctly placed in the channel:",
       "inter2": "<a:equis:934904102679371856> | This server is already set in the option:",
       "inter3": "<a:equis:934904102679371856> | There was a problem use the command again!",
-      "inter4": "<a:equis:934904102679371856> | You need to use the command on the server where you linked if you got banned or something please open ticket on the following button!",
+      "inter4": "<a:equis:934904102679371856> | This command is used on the server where the interchat was set up, if you were banned or something happened you can use the {0} command to delete all channels and servers linked to your account.",
       "inter5": "<a:paloma:934928358461046897> | Ready, you have just unlinked!",
       "inter6": "<a:equis:934904102679371856> | You have not placed anything in this option!",
-      "inter7": "<a:equis:934904102679371856> | This command can only be executed on the server where you linked this option if you were banned or something happened open ticket on the following button!",
       "mention": {
         "true": "<a:paloma:934928358461046897> | Now the bot will work by mentioning it in this section!",
         "false": "<a:paloma:934928358461046897> | Now the bot will not work by mentioning in this section!"
@@ -288,6 +288,10 @@
     "rob": {
       "rob_correct": "<a:moneyfly:950559709709086730> | Your robbery was a success, one way or another you won: ",
       "rob_fail": "<a:equis:934904102679371856> | It can't be your theft failed, what you managed to grab was taken from you by the police and they charged you the same commission to let you go! They took it from you: "
+    },
+    "hunt": {
+      "hunt_correct": "<a:paloma:934928358461046897> | You just hunted a {0}, earned ¥{1} yen",
+      "hunt_fail": "<a:equis:934904102679371856> | A dangerous animal has attacked you, I take away ¥{0} yen"
     }
   },
   "tickets": {
@@ -370,6 +374,7 @@
     "error_send": "<a:equis:934904102679371856> | You have not configured the section I cannot send it."
   },
   "antilinks": "{0} Links are not allowed on this server!",
+  "antinsfw": "{0} Don't send such images!",
   "marry": {
     "marry": {
       "m1": "<a:equis:934904102679371856> | You must mention a user to get married!",
