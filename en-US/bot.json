@@ -61,7 +61,8 @@
       "ban4": " | Reason:",
       "ban5": " | Moderator:",
       "ban6": "<a:paloma:934928358461046897> | The user",
-      "ban7": "was banned from the server"
+      "ban7": "was banned from the server",
+      "ban8": "<a:paloma:934928358461046897> | I could not find this user!"
     },
     "unban": {
       "unban1": "<a:equis:934904102679371856> | I did not find this user, check that it is the correct id!",
@@ -163,7 +164,7 @@
     "invite4": "Support",
     "botinfo1": "Privacy",
     "botinfo2": "Terms",
-    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Public commands:**__ 66\n__**Slash commands:**__ 15\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Esmile.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
+    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Public commands:**__ 66\n__**Slash commands:**__ 19\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Esmile.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
     "contact1": "To contact my creator you must open a ticket on the following server"
   },
   "utility": {
@@ -248,15 +249,8 @@
         "c6": "<a:equis:934904102679371856> | Remember that you have already activated or not deactivated this category!",
         "c7": "<a:paloma:934928358461046897> | The category is successfully activated!"
       },
-      "command": {
-        "c1": "<a:equis:934904102679371856> | You have not said any command, to see the list of commands use the command: {0}",
-        "c2": "<a:equis:934904102679371856> | You cannot deactivate that command otherwise how will you activate the commands again?",
-        "c3": "<a:equis:934904102679371856> | There is no such command to see the available commands use the command: {0}",
-        "c4": "<a:equis:934904102679371856> | Remember that you have already disabled this command!",
-        "c5": "<a:paloma:934928358461046897> | The command was deactivated correctly!",
-        "c6": "<a:equis:934904102679371856> | Remember that you have already activated or not deactivated this command!",
-        "c7": "<a:paloma:934928358461046897> | The command was successfully activated!"
-      }
+      "command": "If you want to deactivate or activate commands, you can do it using the link below!",
+      "command_slash": "If you want to disable or enable slash commands, you can do it through your server settings!"
     }
   },
   "inter": {

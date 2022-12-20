@@ -61,7 +61,8 @@
       "ban4": " | Razon:",
       "ban5": " | Moderador:",
       "ban6": "<a:paloma:934928358461046897> | El usuario",
-      "ban7": "fue baneado del servidor"
+      "ban7": "fue baneado del servidor",
+      "ban8": "<a:paloma:934928358461046897> | No he podido encontrar a ese usuario!"
     },
     "unban": {
       "unban1": "<a:equis:934904102679371856> | No encontre a ese usuario revisa que sea la id correcta!",
@@ -163,7 +164,7 @@
     "invite4": "Soporte",
     "botinfo1": "Privacidad",
     "botinfo2": "Terminos",
-    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Comandos publicos:**__ 66\n__**Comandos slash:**__ 15\n__**Categorias del dashboard:**__ 4\n__**Opciones del dashboard:**__ 8\n__**Libreria:**__ Esmile.js.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
+    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Comandos publicos:**__ 66\n__**Comandos slash:**__ 19\n__**Categorias del dashboard:**__ 4\n__**Opciones del dashboard:**__ 8\n__**Libreria:**__ Esmile.js.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
     "contact1": "Para contactar a mi creador debes abrir un ticket en el siguiente servidor"
   },
   "utility": {
@@ -248,15 +249,8 @@
         "c6": "<a:equis:934904102679371856> | Recuerda que ya activaste o no desactivaste esa categoria!",
         "c7": "<a:paloma:934928358461046897> | La categoria se activo correctamente!"
       },
-      "command": {
-        "c1": "<a:equis:934904102679371856> | No has dicho nigun comando, para ver la lista de comandos usa el comando: {0}",
-        "c2": "<a:equis:934904102679371856> | No puedes desactivar ese comando si no ¿como activaras los comandos de nuevo?",
-        "c3": "<a:equis:934904102679371856> | No existe ese comando para ver los comandos disponibles usa el comando: {0}",
-        "c4": "<a:equis:934904102679371856> | Recuerda que ya desactivaste ese comando!",
-        "c5": "<a:paloma:934928358461046897> | El comando se desactivo correctamente!",
-        "c6": "<a:equis:934904102679371856> | Recuerda que ya activaste o no desactivaste ese comando!",
-        "c7": "<a:paloma:934928358461046897> | El comando se activo correctamente!"
-      }
+      "command": "Si quieres desactivar o activar comandos, puedes hacerlo mediante el enlace de abajo!",
+      "command_slash": "Si quieres desactivar o activar comandos slash, puedes hacerlo mediante los ajustes de su servidor!"
     }
   },
   "inter": {

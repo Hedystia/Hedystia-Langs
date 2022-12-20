@@ -61,7 +61,8 @@
       "ban4": " | Sebep:",
       "ban5": " | Moderatör:",
       "ban6": "<a:paloma:934928358461046897> | Kullanıcı",
-      "ban7": "sunucudan yasaklandı"
+      "ban7": "sunucudan yasaklandı",
+      "ban8": "<a:paloma:934928358461046897> | Bu kullanıcıyı bulamadım!"
     },
     "unban": {
       "unban1": "<a:equis:934904102679371856> | Bu kullanıcıyı bulamadım, doğru kimlik olup olmadığını kontrol edin!",
@@ -163,7 +164,7 @@
     "invite4": "Destek",
     "botinfo1": "Gizlilik",
     "botinfo2": "Şartlar",
-    "botinfo3": "__**Yaratıcı:**__ Zastinian#8451\n__**Toplam sunucular:**__ {servers}\n__**Kamu komutları:**__ 66\n__**Eğik çizgi komutları:**__ 15\n__**Dashboard categories:**__ 4\n__**Gösterge tablosu seçenekleri:**__ 8\n__**Kitapçı:**__ Esmile.js\n__**Kütüphane versiyonu:**__ v{versionlib}\n__**NodeJs Sürümü:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Oluşturuldu:**__ {createat}",
+    "botinfo3": "__**Yaratıcı:**__ Zastinian#8451\n__**Toplam sunucular:**__ {servers}\n__**Kamu komutları:**__ 66\n__**Eğik çizgi komutları:**__ 19\n__**Dashboard categories:**__ 4\n__**Gösterge tablosu seçenekleri:**__ 8\n__**Kitapçı:**__ Esmile.js\n__**Kütüphane versiyonu:**__ v{versionlib}\n__**NodeJs Sürümü:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Oluşturuldu:**__ {createat}",
     "contact1": "Yaratıcımla iletişime geçmek için aşağıdaki sunucuda bir bilet açmalısınız"
   },
   "utility": {
@@ -248,15 +249,8 @@
         "c6": "<a:equis:934904102679371856> | Bu kategoriyi daha önce etkinleştirdiğinizi veya devre dışı bırakmadığınızı unutmayın!",
         "c7": "<a:paloma:934928358461046897> | Kategori başarıyla etkinleştirildi!"
       },
-      "command": {
-        "c1": "<a:equis:934904102679371856> | Herhangi bir komut söylemediniz, komutların listesini görmek için komutu kullanın: {0}",
-        "c2": "<a:equis:934904102679371856> | Bu komutu devre dışı bırakamazsınız, aksi takdirde komutları tekrar nasıl etkinleştireceksiniz?",
-        "c3": "<a:equis:934904102679371856> | Böyle bir komut yok Mevcut komutları görmek için komutu kullanın: {0}",
-        "c4": "<a:equis:934904102679371856> | Bu komutu zaten devre dışı bıraktığınızı unutmayın!",
-        "c5": "<a:paloma:934928358461046897> | Komut doğru şekilde devre dışı bırakıldı!",
-        "c6": "<a:equis:934904102679371856> | Bu komutu daha önce etkinleştirdiğinizi veya devre dışı bırakmadığınızı unutmayın!",
-        "c7": "<a:paloma:934928358461046897> | Komut başarıyla etkinleştirildi!"
-      }
+      "command": "Komutları devre dışı bırakmak veya etkinleştirmek istiyorsanız, aşağıdaki bağlantıyı kullanarak bunu yapabilirsiniz!",
+      "command_slash": "Eğik çizgi komutlarını devre dışı bırakmak veya etkinleştirmek istiyorsanız, bunu sunucu ayarlarınızdan yapabilirsiniz!"
     }
   },
   "inter": {

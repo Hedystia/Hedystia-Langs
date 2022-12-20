@@ -61,7 +61,8 @@
       "ban4": " | Raison:",
       "ban5": " | Modérateur:",
       "ban6": "<a:paloma:934928358461046897> | L'utilisateur",
-      "ban7": "a été banni du serveur"
+      "ban7": "a été banni du serveur",
+      "ban8": "<a:paloma:934928358461046897> | Je n'ai pas pu trouver cet utilisateur !"
     },
     "unban": {
       "unban1": "<a:equis:934904102679371856> | Je n'ai pas trouvé cet utilisateur pour vérifier que c'est le bon identifiant !",
@@ -163,7 +164,7 @@
     "invite4": "Soutien",
     "botinfo1": "Vie privée",
     "botinfo2": "Conditions",
-    "botinfo3": "__**Créateur:**__ Zastinian#8451\n__**Total des serveurs :**__ {servers\n__**Commandes publiques :**__ 66\n__**Des commandes de type slash :**__ 15\n__**Catégories de tableaux de bord :**__ 4\n__**Options du tableau de bord :**__ 8\n__**Librairie :**__ Esmile.js\n__**Version de la bibliothèque :**__ v{versionlib}\n__**Version de NodeJs :**__ v{nodeversion}\n__**Ping :**__ {ping}ms\n__**Créé le :**__ {createat}",
+    "botinfo3": "__**Créateur:**__ Zastinian#8451\n__**Total des serveurs :**__ {servers\n__**Commandes publiques :**__ 66\n__**Des commandes de type slash :**__ 19\n__**Catégories de tableaux de bord :**__ 4\n__**Options du tableau de bord :**__ 8\n__**Librairie :**__ Esmile.js\n__**Version de la bibliothèque :**__ v{versionlib}\n__**Version de NodeJs :**__ v{nodeversion}\n__**Ping :**__ {ping}ms\n__**Créé le :**__ {createat}",
     "contact1": "Pour contacter mon créateur, vous devez ouvrir un ticket sur le serveur suivant"
   },
   "utility": {
@@ -248,15 +249,8 @@
         "c6": "<a:equis:934904102679371856> | N'oubliez pas que vous avez déjà activé ou non cette catégorie !",
         "c7": "<a:paloma:934928358461046897> | La catégorie a été activée avec succès !"
       },
-      "command": {
-        "c1": "<a:equis:934904102679371856> | Vous n'avez dit aucune commande, pour voir la liste des commandes, utilisez la commande : {0}",
-        "c2": "<a:equis:934904102679371856> | Vous ne pouvez pas désactiver cette commande, sinon comment allez-vous activer les commandes à nouveau ?",
-        "c3": "<a:equis:934904102679371856> | Aucune commande de ce type n'existe pour voir les commandes disponibles, utilisez la commande : {0}",
-        "c4": "<a:equis:934904102679371856> | N'oubliez pas que vous avez déjà désactivé cette commande !",
-        "c5": "<a:paloma:934928358461046897> | La commande a été désactivée correctement !",
-        "c6": "<a:equis:934904102679371856> | N'oubliez pas que vous avez déjà activé ou non cette commande !",
-        "c7": "<a:paloma:934928358461046897> | La commande a été activée avec succès !"
-      }
+      "command": "Si vous voulez désactiver ou activer des commandes, vous pouvez le faire en utilisant le lien ci-dessous !",
+      "command_slash": "Si vous souhaitez désactiver ou activer les commandes slash, vous pouvez le faire via les paramètres de votre serveur !"
     }
   },
   "inter": {
