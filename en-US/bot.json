@@ -1,98 +1,99 @@
 {
-  "nodb": "<a:equis:934904102679371856> | There was a problem use the command again!",
-  "disabled_command": "<a:equis:934904102679371856> | This command is disabled on this server!",
+  "nodb": ":x: | There was a problem use the command again!",
+  "disabled_command": ":x: | This command is disabled on this server!",
   "permisos": {
-    "VIEW_CHANNEL": "<a:equis:934904102679371856> | I need ViewChannel permission to watch that channel!",
-    "GUILD_CATEGORY": "<a:equis:934904102679371856> | You can only mention text or voice channels!",
-    "MIS_PERMISOS": "<a:equis:934904102679371856> | I need {0} permission to function properly!",
-    "USUARIOS": "<a:equis:934904102679371856> | You need the {0} permission to be able to use this command!",
-    "TEXT_ONLY": "<a:equis:934904102679371856> | You can only mention text channels!",
-    "READ_MESSAGE_HISTORY": "<a:equis:934904102679371856> | I need the ReadMessageHistory permission to work properly!",
-    "EMBED_LINKS": "<a:equis:934904102679371856> | I need EmbedLinks permission to work properly!",
-    "USE_EXTERNAL_EMOJIS": "<a:equis:934904102679371856> | I need UseExternalEmojis permission to work properly!",
-    "OWNER_SERVER": "<a:equis:934904102679371856> | This command can only be used by the server owner!"
+    "VIEW_CHANNEL": ":x: | I need ViewChannel permission to watch that channel!",
+    "GUILD_CATEGORY": ":x: | You can only mention text or voice channels!",
+    "MIS_PERMISOS": ":x: | I need {0} permission to function properly!",
+    "USUARIOS": ":x: | You need the {0} permission to be able to use this command!",
+    "TEXT_ONLY": ":x: | You can only mention text channels!",
+    "READ_MESSAGE_HISTORY": ":x: | I need the ReadMessageHistory permission to work properly!",
+    "EMBED_LINKS": ":x: | I need EmbedLinks permission to work properly!",
+    "USE_EXTERNAL_EMOJIS": ":x: | I need UseExternalEmojis permission to work properly!",
+    "OWNER_SERVER": ":x: | This command can only be used by the server owner!"
   },
   "mention": {
-    "NO_USER": "<a:equis:934904102679371856> | You must mention a user!",
-    "USER_AUTHOR": "<a:equis:934904102679371856> | You can't mention yourself!",
-    "USER_POSITION": "<a:equis:934904102679371856> | That user has a role equal to or greater than yours!",
-    "BOT_POSITION": "<a:equis:934904102679371856> | My role is equal to or less than that user's!",
-    "BOT_MENTION": "<a:equis:934904102679371856> | You can't mention bots!",
-    "BOT_AUTHOR": "<a:equis:934904102679371856> | You can't mention me!",
-    "NO_CHANNEL": "<a:equis:934904102679371856> | You must mention a channel!"
+    "NO_USER": ":x: | You must mention a user!",
+    "USER_AUTHOR": ":x: | You can't mention yourself!",
+    "USER_POSITION": ":x: | That user has a role equal to or greater than yours!",
+    "BOT_POSITION": ":x: | My role is equal to or less than that user's!",
+    "BOT_MENTION": ":x: | You can't mention bots!",
+    "BOT_AUTHOR": ":x: | You can't mention me!",
+    "NO_CHANNEL": ":x: | You must mention a channel!",
+    "NO_GUILD_USER": ":x: | The user is not on the server!"
   },
   "mod": {
     "clear": {
-      "clear1": "<a:equis:934904102679371856> | You must indicate how many messages I am going to delete!",
-      "clear2": "<a:equis:934904102679371856> | I can only delete 1 to 100 messages!",
-      "clear3": "<a:equis:934904102679371856> | I need ManageMessages permission on that channel!",
-      "clear4": "<a:equis:934904102679371856> | Cannot find any user messages",
-      "clear5": "<a:paloma:934928358461046897> | Deleted",
+      "clear1": ":x: | You must indicate how many messages I am going to delete!",
+      "clear2": ":x: | I can only delete 1 to 100 messages!",
+      "clear3": ":x: | I need ManageMessages permission on that channel!",
+      "clear4": ":x: | Cannot find any user messages",
+      "clear5": ":p: | Deleted",
       "clear6": "message(s)",
       "clear7": " | Reason:",
       "clear8": " | Of the member:",
       "clear9": " | In the channel:"
     },
     "lock": {
-      "lock1": "<a:paloma:934928358461046897> | Channel blocked",
+      "lock1": ":p: | Channel blocked",
       "lock2": " | Reason:"
     },
     "unlock": {
-      "unlock1": "<a:paloma:934928358461046897> | Channel unlocked",
+      "unlock1": ":p: | Channel unlocked",
       "unlock2": " | Reason:"
     },
     "nuke": {
-      "nuke1": "<a:equis:934904102679371856> | I can't nuke that channel check that I have ManageChannels,ManageRoles permissions on that channel!",
-      "nuke2": "<a:paloma:934928358461046897> | The channel has been correctly nuked!"
+      "nuke1": ":x: | I can't nuke that channel check that I have ManageChannels,ManageRoles permissions on that channel!",
+      "nuke2": ":p: | The channel has been correctly nuked!"
     },
     "kick": {
-      "kick1": "<a:equis:934904102679371856> | I can't remove this user, check that my role is above his!",
+      "kick1": ":x: | I can't remove this user, check that my role is above his!",
       "kick2": "Responsible",
-      "kick3": "<a:paloma:934928358461046897> | The user",
+      "kick3": ":p: | The user",
       "kick4": "was kicked off the server",
       "kick5": " | Reason:",
-      "kick6": "<a:equis:934904102679371856> | You were removed from the server",
+      "kick6": ":x: | You were removed from the server",
       "kick7": " | Moderator:"
     },
     "ban": {
-      "ban1": "<a:equis:934904102679371856> | I can't ban that user!",
+      "ban1": ":x: | I can't ban that user!",
       "ban2": "Responsible",
-      "ban3": "<a:equis:934904102679371856> | You were banned from the server",
+      "ban3": ":x: | You were banned from the server",
       "ban4": " | Reason:",
       "ban5": " | Moderator:",
-      "ban6": "<a:paloma:934928358461046897> | The user",
+      "ban6": ":p: | The user",
       "ban7": "was banned from the server",
-      "ban8": "<a:paloma:934928358461046897> | I could not find this user!"
+      "ban8": ":p: | I could not find this user!"
     },
     "unban": {
-      "unban1": "<a:equis:934904102679371856> | I did not find this user, check that it is the correct id!",
+      "unban1": ":x: | I did not find this user, check that it is the correct id!",
       "unban2": "Responsible",
-      "unban3": "<a:paloma:934928358461046897> | The user",
+      "unban3": ":p: | The user",
       "unban4": "was successfully unbanned",
       "unban5": " | Reason:"
     },
     "timeout": {
-      "timeout1": "<a:equis:934904102679371856> | That user has administrator permissions, I can't give him timeout!",
-      "timeout2": "<a:equis:934904102679371856> | You must specify the time e.g.: 10s, 10m, 10h, 10d",
-      "timeout3": "<a:equis:934904102679371856> | Invalid time specifies time from 10s to 28d",
-      "timeout4": "<a:paloma:934928358461046897> | The user",
+      "timeout1": ":x: | That user has administrator permissions, I can't give him timeout!",
+      "timeout2": ":x: | You must specify the time e.g.: 10s, 10m, 10h, 10d",
+      "timeout3": ":x: | Invalid time specifies time from 10s to 28d",
+      "timeout4": ":p: | The user",
       "timeout5": "you have just been given timeout",
       "timeout6": " | Reason:",
-      "timeout7": "<a:equis:934904102679371856> | This user already has timeout!"
+      "timeout7": ":x: | This user already has timeout!"
     },
     "untimeout": {
-      "untimeout1": "<a:equis:934904102679371856> | That user has administrator permissions, I can't remove the timeout!",
-      "untimeout2": "<a:paloma:934928358461046897> | The user",
+      "untimeout1": ":x: | That user has administrator permissions, I can't remove the timeout!",
+      "untimeout2": ":p: | The user",
       "untimeout3": "the timeout has just been removed",
       "untimeout4": " | Reason:",
-      "untimeout5": "<a:equis:934904102679371856> | This user has no timeout!"
+      "untimeout5": ":x: | This user has no timeout!"
     }
   },
   "info": {
     "ping1": "Response:",
     "ping2": "API:",
     "ping3": "Did you like my ping?",
-    "help1": "<a:equis:934904102679371856> | I could not find that command!",
+    "help1": ":x: | I could not find that command!",
     "help2": "Name",
     "help3": "Description",
     "help4": "Use",
@@ -110,8 +111,8 @@
     "help17": "Information",
     "help18": "Displays the information commands",
     "help19": "Help Menu",
-    "help20": "```Hello, how are you?\nI am a multifunctional bot, I will help you on your server.```\n**Categories:**\n<a:arrowgrey:940781412007706625> <a:info:940709099644018699>**Information**\n<a:arrowgrey:940781412007706625> <a:settings:950557191935492096>**Configuration**\n<a:arrowgrey:940781412007706625> <:tickets:973737607538303056>**Tickets**\n<a:arrowgrey:940781412007706625> <a:shieldpurple:944774734393012355>**Moderation**\n<a:arrowgrey:940781412007706625> <a:moneyfly:950559709709086730>**Economy** <:new:940783981442514954>\n<a:arrowgrey:940781412007706625> <a:marry_me:971269832009990175>**Marriage** <:new:940783981442514954>\n<a:arrowgrey:940781412007706625> <a:hug:952797737374605342>**Interaction**\n<a:arrowgrey:940781412007706625> <a:tools:941921938819911711>**Utility**\n<a:arrowgrey:940781412007706625> <a:pepe_camera:987518352283033710>**Images**\n\n**Upcoming Categories:**\n<a:arrowgrey:940781412007706625> <a:LevelUp:995822330905366608>**Levels**",
-    "help21": "<a:equis:934904102679371856> | This is not your help menu use the help command to get one!",
+    "help20": "```Hello, how are you?\nI am a multifunctional bot, I will help you on your server.```\n**Categories:**\n:a: :i:**Information**\n:a: :s:**Configuration**\n:a: :t:**Tickets**\n:a: :sh:**Moderation**\n:a: :m:**Economy** :n:\n:a: :ma:**Marriage** :n:\n:a: :h:**Interaction**\n:a: :to:**Utility**\n:a: :pe:**Images**\n\n**Upcoming Categories:**\n:a: :l:**Levels**",
+    "help21": ":x: | This is not your help menu use the help command to get one!",
     "help22": "Utility",
     "help23": "Displays utility commands",
     "help24": "Moderation",
@@ -131,89 +132,89 @@
     "help42": "Displays the marriage commands",
     "helpcollect": {
       "info1": "Information",
-      "info2": "**Commands <a:flecha:900166837436821527>**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact\nuserinfo```",
+      "info2": "**Commands :f:**\n```help ∫ ping ∫ reportbug\ninvite ∫ botinfo ∫ contact\nuserinfo```",
       "util1": "Utility",
-      "util2": "**Commands <a:flecha:900166837436821527>**\n```avatar ∫ banner ∫ bigemoji\navserver ∫ servericon ∫ addemoji```",
+      "util2": "**Commands :f:**\n```avatar ∫ banner ∫ bigemoji\navserver ∫ servericon ∫ addemoji```",
       "mod1": "Moderation",
-      "mod2": "**Commands <a:flecha:900166837436821527>**\n```ban ∫ unban ∫ kick\nlock ∫ unlock ∫ clear\nnuke ∫ timeout ∫ untimeout```",
+      "mod2": "**Commands :f:**\n```ban ∫ unban ∫ kick\nlock ∫ unlock ∫ clear\nnuke ∫ timeout ∫ untimeout```",
       "config1": "Configuration",
-      "config2": "**Commands <a:flecha:900166837436821527>**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand  ∫ setlang```",
+      "config2": "**Commands :f:**\n```dashboard ∫ inter ∫ togglecategory\ntogglecommand  ∫ setlang```",
       "inter1": "Interaction",
-      "inter2": "**Commands <a:flecha:900166837436821527>**\n```kiss ∫ hug ∫ pat\nslap ∫ smug ∫ feed```",
+      "inter2": "**Commands :f:**\n```kiss ∫ hug ∫ pat\nslap ∫ smug ∫ feed```",
       "eco1": "Economy",
-      "eco2": "**Commands <a:flecha:900166837436821527>**\n```daily ∫ deposit ∫ newuser\nwithdraw ∫ work ∫ beg\ncrime ∫ profile ∫ hunt```",
+      "eco2": "**Commands :f:**\n```daily ∫ deposit ∫ newuser\nwithdraw ∫ work ∫ beg\ncrime ∫ profile ∫ hunt```",
       "ticket1": "Tickets",
-      "ticket2": "**Commands <a:flecha:900166837436821527>**\n```tickets ∫ panel ∫ close\n```",
+      "ticket2": "**Commands :f:**\n```tickets ∫ panel ∫ close\n```",
       "image1": "Images",
-      "image2": "**Commands <a:flecha:900166837436821527>**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete ∫ jail```",
+      "image2": "**Commands :f:**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete ∫ jail```",
       "marry1": "Marriage",
-      "marry2": "**Commands <a:flecha:900166837436821527>**\n```marry ∫ divorce\n```"
+      "marry2": "**Commands :f:**\n```marry ∫ divorce\n```"
     },
-    "report1": "<a:equis:934904102679371856> | You cannot send invitation links!",
-    "report2": "<a:equis:934904102679371856> | This is not your report menu!",
+    "report1": ":x: | You cannot send invitation links!",
+    "report2": ":x: | This is not your report menu!",
     "report3": "Submit Report",
     "report4": "Yes",
     "report5": "If I want to send the report",
     "report6": "I do not want to send the report",
     "report7": "Report Submission Confirmation",
-    "report8": "```The message will be sent to the support server\nSo try not to use the wrong command```\n**Emoji Info:**\n<a:paloma:934928358461046897> = Send the report\n<a:equis:934904102679371856> = Do not send the report",
-    "report9": "<a:paloma:934928358461046897> | Report sent successfully!",
-    "invite1": "<a:arrowgrey:940781412007706625> Invite me",
+    "report8": "```The message will be sent to the support server\nSo try not to use the wrong command```\n**Emoji Info:**\n:p: = Send the report\n:x: = Do not send the report",
+    "report9": ":p: | Report sent successfully!",
+    "invite1": ":a: Invite me",
     "invite2": "```yml\nTo invite the bot you can use the button below or you can also go to the support server if you have any questions or problems!```",
     "invite3": "Invitation",
     "invite4": "Support",
     "botinfo1": "Privacy",
     "botinfo2": "Terms",
-    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Public commands:**__ 66\n__**Slash commands:**__ 19\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Esmile.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
+    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Public commands:**__ 66\n__**Slash commands:**__ 28\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Esmile.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
     "contact1": "To contact my creator you must open a ticket on the following server"
   },
   "utility": {
-    "afk1": "<a:equis:934904102679371856> | Be sure not to include mentions",
-    "afk2": "<a:equis:934904102679371856> | You cannot use ping everyone/here",
-    "afk3": "<a:equis:934904102679371856> | Your reason must not exceed 100 characters!",
-    "afk4": "<a:paloma:934928358461046897> | You have been set afk - **Reason:**",
+    "afk1": ":x: | Be sure not to include mentions",
+    "afk2": ":x: | You cannot use ping everyone/here",
+    "afk3": ":x: | Your reason must not exceed 100 characters!",
+    "afk4": ":p: | You have been set afk - **Reason:**",
     "afk5": "is currently afk:",
-    "afk6": "<a:paloma:934928358461046897> | Looks like you're back! I removed your afk - **Reason:** ",
-    "avatar": "<a:paloma:934928358461046897> | Avatar of",
-    "banner1": "<a:paloma:934928358461046897> | Banner of",
-    "banner2": "<a:paloma:934928358461046897> | Banner color of",
-    "banner3": "<a:equis:934904102679371856> | You or the named user do not have a custom banner or color!",
-    "emoji1": "<a:paloma:934928358461046897> | Emoji successfully enlarged!",
-    "emoji2": "<a:equis:934904102679371856> | Can't find that emoji!",
-    "emoji3": "<a:paloma:934928358461046897> | Emoji successfully added!"
+    "afk6": ":p: | Looks like you're back! I removed your afk - **Reason:** ",
+    "avatar": ":p: | Avatar of",
+    "banner1": ":p: | Banner of",
+    "banner2": ":p: | Banner color of",
+    "banner3": ":x: | You or the named user do not have a custom banner or color!",
+    "emoji1": ":p: | Emoji successfully enlarged!",
+    "emoji2": ":x: | Can't find that emoji!",
+    "emoji3": ":p: | Emoji successfully added!"
   },
   "event": {
     "antichannel": {
       "create": {
         "create1": "I create a channel and it was not in the whitelist",
-        "create2": "<a:equis:934904102679371856> | You cannot ban the user {user} with the id {userid} for creating a channel and not being in the whitelist!",
-        "create3": "<a:paloma:934928358461046897> | I just banned the user {user} with the id {userid} for creating a channel and not being in the whitelist!",
-        "create4": "<a:paloma:934928358461046897> | I just removed the user {user} with the id {userid} for creating a channel and not being in the whitelist!",
-        "create5": "<a:equis:934904102679371856> | You cannot remove the user {user} with the id {userid} for creating a channel and not being in the whitelist!",
+        "create2": ":x: | You cannot ban the user {user} with the id {userid} for creating a channel and not being in the whitelist!",
+        "create3": ":p: | I just banned the user {user} with the id {userid} for creating a channel and not being in the whitelist!",
+        "create4": ":p: | I just removed the user {user} with the id {userid} for creating a channel and not being in the whitelist!",
+        "create5": ":x: | You cannot remove the user {user} with the id {userid} for creating a channel and not being in the whitelist!",
         "create6": "I created the {limit} channel limit and it was not in the whitelist.",
-        "create7": "<a:paloma:934928358461046897> | I just banned the user {user} with the id {userid} for exceeding the channel creation limit and not being on the whitelist!",
-        "create8": "<a:equis:934904102679371856> | You cannot ban the user {user} with the id {userid} for exceeding the channel creation limit and not being in the whitelist!",
-        "create9": "<a:paloma:934928358461046897> | I just removed the user {user} with the id {userid} for exceeding the channel creation limit and not being in the whitelist!",
-        "create10": "<a:equis:934904102679371856> | You cannot remove the user {user} with the id {userid} for exceeding the channel creation limit and not being in the whitelist!"
+        "create7": ":p: | I just banned the user {user} with the id {userid} for exceeding the channel creation limit and not being on the whitelist!",
+        "create8": ":x: | You cannot ban the user {user} with the id {userid} for exceeding the channel creation limit and not being in the whitelist!",
+        "create9": ":p: | I just removed the user {user} with the id {userid} for exceeding the channel creation limit and not being in the whitelist!",
+        "create10": ":x: | You cannot remove the user {user} with the id {userid} for exceeding the channel creation limit and not being in the whitelist!"
       },
       "delete": {
         "delete1": "I delete a channel and it was not in the whitelist",
-        "delete2": "<a:equis:934904102679371856> | You cannot ban the user {user} with the id {userid} for deleting a channel and not being in the whitelist!",
-        "delete3": "<a:paloma:934928358461046897> | I just banned the user {user} with the id {userid} for deleting a channel and not being in the whitelist!",
-        "delete4": "<a:paloma:934928358461046897> | I just removed the user {user} with the id {userid} for deleting a channel and not being in the whitelist!",
-        "delete5": "<a:equis:934904102679371856> | Cannot remove user {user} with id {userid} for deleting a channel and not being in the whitelist!",
+        "delete2": ":x: | You cannot ban the user {user} with the id {userid} for deleting a channel and not being in the whitelist!",
+        "delete3": ":p: | I just banned the user {user} with the id {userid} for deleting a channel and not being in the whitelist!",
+        "delete4": ":p: | I just removed the user {user} with the id {userid} for deleting a channel and not being in the whitelist!",
+        "delete5": ":x: | Cannot remove user {user} with id {userid} for deleting a channel and not being in the whitelist!",
         "delete6": "Removed the {limit} channel limit and it was not in the whitelist.",
-        "delete7": "<a:paloma:934928358461046897> | I just banned the user {user} with the id {userid} for exceeding the channel deletion limit and not being on the whitelist!",
-        "delete8": "<a:equis:934904102679371856> | You cannot ban the user {user} with the id {userid} for exceeding the channel deletion limit and not being on the whitelist!",
-        "delete9": "<a:paloma:934928358461046897> | I just removed the user {user} with the id {userid} for exceeding the channel deletion limit and not being in the whitelist!",
-        "delete10": "<a:equis:934904102679371856> | You cannot remove the user {user} with the id {userid} for exceeding the channel deletion limit and not being in the whitelist!"
+        "delete7": ":p: | I just banned the user {user} with the id {userid} for exceeding the channel deletion limit and not being on the whitelist!",
+        "delete8": ":x: | You cannot ban the user {user} with the id {userid} for exceeding the channel deletion limit and not being on the whitelist!",
+        "delete9": ":p: | I just removed the user {user} with the id {userid} for exceeding the channel deletion limit and not being in the whitelist!",
+        "delete10": ":x: | You cannot remove the user {user} with the id {userid} for exceeding the channel deletion limit and not being in the whitelist!"
       }
     },
     "antibot": {
-      "antibot1": "<a:paloma:934928358461046897> | I just banned the user {user} with the id {userid} for inviting a bot and not being on the whitelist!",
-      "antibot2": "<a:equis:934904102679371856> | You cannot ban the user {user} with the id {userid} for inviting a bot and not being on the whitelist!",
-      "antibot3": "<a:paloma:934928358461046897> | I just removed the user {user} with the id {userid} for inviting a bot and not being on the whitelist!",
-      "antibot4": "<a:equis:934904102679371856> | You cannot remove the user {user} with the id {userid} for inviting a bot and not being in the whitelist!"
+      "antibot1": ":p: | I just banned the user {user} with the id {userid} for inviting a bot and not being on the whitelist!",
+      "antibot2": ":x: | You cannot ban the user {user} with the id {userid} for inviting a bot and not being on the whitelist!",
+      "antibot3": ":p: | I just removed the user {user} with the id {userid} for inviting a bot and not being on the whitelist!",
+      "antibot4": ":x: | You cannot remove the user {user} with the id {userid} for inviting a bot and not being in the whitelist!"
     },
     "mention": {
       "mention1": "Hello",
@@ -227,27 +228,27 @@
       "dashboard2": "For most of the Esmile settings you configure on the dashboard to go tap the button below!"
     },
     "interchat": {
-      "inter1": "<a:paloma:934928358461046897> | It was correctly placed in the channel:",
-      "inter2": "<a:equis:934904102679371856> | This server is already set in the option:",
-      "inter3": "<a:equis:934904102679371856> | There was a problem use the command again!",
-      "inter4": "<a:equis:934904102679371856> | This command is used on the server where the interchat was set up, if you were banned or something happened you can use the {0} command to delete all channels and servers linked to your account.",
-      "inter5": "<a:paloma:934928358461046897> | Ready, you have just unlinked!",
-      "inter6": "<a:equis:934904102679371856> | You have not placed anything in this option!",
+      "inter1": ":p: | It was correctly placed in the channel:",
+      "inter2": ":x: | This server is already set in the option:",
+      "inter3": ":x: | There was a problem use the command again!",
+      "inter4": ":x: | This command is used on the server where the interchat was set up, if you were banned or something happened you can use the {0} command to delete all channels and servers linked to your account.",
+      "inter5": ":p: | Ready, you have just unlinked!",
+      "inter6": ":x: | You have not placed anything in this option!",
       "mention": {
-        "true": "<a:paloma:934928358461046897> | Now the bot will work by mentioning it in this section!",
-        "false": "<a:paloma:934928358461046897> | Now the bot will not work by mentioning in this section!"
+        "true": ":p: | Now the bot will work by mentioning it in this section!",
+        "false": ":p: | Now the bot will not work by mentioning in this section!"
       }
     },
-    "else": "<a:equis:934904102679371856> | The options in this section are:",
+    "else": ":x: | The options in this section are:",
     "toggle": {
       "category": {
-        "c1": "<a:equis:934904102679371856> | You have not said any category, to see the list of categories use the command: {0}",
-        "c2": "<a:equis:934904102679371856> | You cannot deactivate the configuration category otherwise how will you configure me?",
-        "c3": "<a:equis:934904102679371856> | There is no such category to see the available categories use the command: {0}",
-        "c4": "<a:equis:934904102679371856> | Remember that you have already deactivated this category!",
-        "c5": "<a:paloma:934928358461046897> | The category was deactivated correctly!",
-        "c6": "<a:equis:934904102679371856> | Remember that you have already activated or not deactivated this category!",
-        "c7": "<a:paloma:934928358461046897> | The category is successfully activated!"
+        "c1": ":x: | You have not said any category, to see the list of categories use the command: {0}",
+        "c2": ":x: | You cannot deactivate the configuration category otherwise how will you configure me?",
+        "c3": ":x: | There is no such category to see the available categories use the command: {0}",
+        "c4": ":x: | Remember that you have already deactivated this category!",
+        "c5": ":p: | The category was deactivated correctly!",
+        "c6": ":x: | Remember that you have already activated or not deactivated this category!",
+        "c7": ":p: | The category is successfully activated!"
       },
       "command": "If you want to deactivate or activate commands, you can do it using the link below!",
       "command_slash": "If you want to disable or enable slash commands, you can do it through your server settings!"
@@ -263,57 +264,57 @@
     "feed": "has just fed"
   },
   "economy": {
-    "not_account": "<a:equis:934904102679371856> | You do not have an account created, use the newuser command to create an account!",
-    "not_account2": "<a:equis:934904102679371856> | The mentioned user does not have an account created!",
+    "not_account": ":x: | You do not have an account created, use the newuser command to create an account!",
+    "not_account2": ":x: | The mentioned user does not have an account created!",
     "time": "Did you really think you could use this command more than 1 time without waiting? I'm not bad, you just have to wait for the next time:",
-    "lowestDep": "<a:equis:934904102679371856> | You cannot set a number below 0!",
-    "not_money": "<a:equis:934904102679371856> | You don't have that much money!",
+    "lowestDep": ":x: | You cannot set a number below 0!",
+    "not_money": ":x: | You don't have that much money!",
     "new": {
-      "newuser1": "<a:paloma:934928358461046897> | Your account has just been successfully created!",
-      "newuser2": "<a:equis:934904102679371856> | You already have an account created!"
+      "newuser1": ":p: | Your account has just been successfully created!",
+      "newuser2": ":x: | You already have an account created!"
     },
     "daily": {
-      "daily1": "<a:moneyfly:950559709709086730> | You have just claimed the daily reward, it has just been added to your account:"
+      "daily1": ":m: | You have just claimed the daily reward, it has just been added to your account:"
     },
-    "work": "<a:moneyfly:950559709709086730> | You just worked from {0}, you have just been added to your account:",
-    "dep": "<:piggybank:970112913564119060> | You have just deposited: ¥{0} yen in the bank.",
-    "with": "<:piggybank:970112913564119060> | You have just withdrawn: ¥{0} yen from the bank",
-    "beg": "<a:moneyfly:950559709709086730> | You just begged and out of compassion someone gave to you: ",
+    "work": ":m: | You just worked from {0}, you have just been added to your account:",
+    "dep": ":pi: | You have just deposited: ¥{0} yen in the bank.",
+    "with": ":pi: | You have just withdrawn: ¥{0} yen from the bank",
+    "beg": ":m: | You just begged and out of compassion someone gave to you: ",
     "rob": {
-      "rob_correct": "<a:moneyfly:950559709709086730> | Your robbery was a success, one way or another you won: ",
-      "rob_fail": "<a:equis:934904102679371856> | It can't be your theft failed, what you managed to grab was taken from you by the police and they charged you the same commission to let you go! They took it from you: "
+      "rob_correct": ":m: | Your robbery was a success, one way or another you won: ",
+      "rob_fail": ":x: | It can't be your theft failed, what you managed to grab was taken from you by the police and they charged you the same commission to let you go! They took it from you: "
     },
     "hunt": {
-      "hunt_correct": "<a:paloma:934928358461046897> | You just hunted a {0}, earned ¥{1} yen",
-      "hunt_fail": "<a:equis:934904102679371856> | A dangerous animal has attacked you, I take away ¥{0} yen"
+      "hunt_correct": ":p: | You just hunted a {0}, earned ¥{1} yen",
+      "hunt_fail": ":x: | A dangerous animal has attacked you, I take away ¥{0} yen"
     }
   },
   "tickets": {
     "config": {
       "title": {
-        "t1": "<a:equis:934904102679371856> | Please tell me the title for the embed!",
-        "t2": "<a:paloma:934928358461046897> | The embed title has just been updated!"
+        "t1": ":x: | Please tell me the title for the embed!",
+        "t2": ":p: | The embed title has just been updated!"
       },
       "description": {
-        "d1": "<a:equis:934904102679371856> | Please tell me the description for the embed!",
-        "d2": "<a:paloma:934928358461046897> | Just updated the embed description!"
+        "d1": ":x: | Please tell me the description for the embed!",
+        "d2": ":p: | Just updated the embed description!"
       },
       "color": {
-        "c1": "<a:equis:934904102679371856> | Please tell me the color for the embed!",
-        "c2": "<a:equis:934904102679371856> | Not a valid hex color example: #ffffff!",
-        "c3": "<a:paloma:934928358461046897> | The embed color has just been updated!"
+        "c1": ":x: | Please tell me the color for the embed!",
+        "c2": ":x: | Not a valid hex color example: #ffffff!",
+        "c3": ":p: | The embed color has just been updated!"
       },
       "send": {
-        "s1": "<a:equis:934904102679371856> | Could not send the creation embed check that you have {0} permissions!",
-        "s2": "<a:paloma:934928358461046897> | The embed has just been sent successfully!"
+        "s1": ":x: | Could not send the creation embed check that you have {0} permissions!",
+        "s2": ":p: | The embed has just been sent successfully!"
       },
       "text": {
-        "t1": "<a:equis:934904102679371856> | Please tell me the text for the button!",
-        "t2": "<a:paloma:934928358461046897> | The button text has just been updated!"
+        "t1": ":x: | Please tell me the text for the button!",
+        "t2": ":p: | The button text has just been updated!"
       },
       "category": {
-        "c1": "<a:equis:934904102679371856> | Cannot find this category on the server!",
-        "c2": "<a:paloma:934928358461046897> | The ticket category has just been updated!"
+        "c1": ":x: | Cannot find this category on the server!",
+        "c2": ":p: | The ticket category has just been updated!"
       },
       "buttons": {
         "color": {
@@ -323,57 +324,57 @@
           "c4": "Red"
         },
         "color_msg": {
-          "c1": "<a:paloma:934928358461046897> | Select the color button of your choice!",
-          "c2": "<a:equis:934904102679371856> | This is not your color selection!",
-          "c3": "<a:paloma:934928358461046897> | The button color has just been updated!"
+          "c1": ":p: | Select the color button of your choice!",
+          "c2": ":x: | This is not your color selection!",
+          "c3": ":p: | The button color has just been updated!"
         },
         "text": {
-          "t1": "<a:equis:934904102679371856> | Tell me what will be written on the button!",
-          "t2": "<a:paloma:934928358461046897> | The button text has just been updated!"
+          "t1": ":x: | Tell me what will be written on the button!",
+          "t2": ":p: | The button text has just been updated!"
         },
         "toggle": {
-          "t1": "<a:paloma:934928358461046897> | This button has just been activated!",
-          "t2": "<a:paloma:934928358461046897> | This button has just been deactivated!"
+          "t1": ":p: | This button has just been activated!",
+          "t2": ":p: | This button has just been deactivated!"
         }
       },
-      "db_add": "<a:equis:934904102679371856> | There was a problem use the command again!",
+      "db_add": ":x: | There was a problem use the command again!",
       "support": {
-        "s1": "<a:equis:934904102679371856> | You must send the id of the support role!",
-        "s2": "<a:paloma:934928358461046897> | Just updated the support role successfully!"
+        "s1": ":x: | You must send the id of the support role!",
+        "s2": ":p: | Just updated the support role successfully!"
       }
     },
     "events": {
-      "create": "<a:paloma:934928358461046897> | Your ticket {0} has been opened!",
-      "all_ready": "<a:equis:934904102679371856> | You already have an open ticket!",
+      "create": ":p: | Your ticket {0} has been opened!",
+      "all_ready": ":x: | You already have an open ticket!",
       "category": {
-        "c1": "<a:equis:934904102679371856> | The ticket category has not been configured!",
-        "c2": "<a:equis:934904102679371856> | I can't find the ticket category!"
+        "c1": ":x: | The ticket category has not been configured!",
+        "c2": ":x: | I can't find the ticket category!"
       },
-      "support_role": "<a:equis:934904102679371856> | There is no support role configured!",
+      "support_role": ":x: | There is no support role configured!",
       "close": "Close",
-      "err": "<a:equis:934904102679371856> | Check that you have permissions to create the channel in the category, view created tickets, edit channels and send embed messages!",
+      "err": ":x: | Check that you have permissions to create the channel in the category, view created tickets, edit channels and send embed messages!",
       "button_close": {
         "b1": "Reopen",
         "b2": "Delete"
       },
-      "lis": "<a:paloma:934928358461046897> | The ticket is reopened!",
-      "error": "<a:equis:934904102679371856> | If you have a bug please ask how to fix it on the support server or by using the report bug command!"
+      "lis": ":p: | The ticket is reopened!",
+      "error": ":x: | If you have a bug please ask how to fix it on the support server or by using the report bug command!"
     },
     "close": {
-      "c1": "<a:equis:934904102679371856> | You have not configured the tickets yet, use the command: tickets",
-      "c2": "<a:equis:934904102679371856> | You have not configured the support role!",
-      "c3": "<a:equis:934904102679371856> | You do not have the support role to use this command!",
-      "c4": "<a:equis:934904102679371856> | You can only execute this command on one ticket!"
+      "c1": ":x: | You have not configured the tickets yet, use the command: tickets",
+      "c2": ":x: | You have not configured the support role!",
+      "c3": ":x: | You do not have the support role to use this command!",
+      "c4": ":x: | You can only execute this command on one ticket!"
     },
-    "error_send": "<a:equis:934904102679371856> | You have not configured the section I cannot send it."
+    "error_send": ":x: | You have not configured the section I cannot send it."
   },
   "antilinks": "{0} Links are not allowed on this server!",
   "antinsfw": "{0} Don't send such images!",
   "marry": {
     "marry": {
-      "m1": "<a:equis:934904102679371856> | You must mention a user to get married!",
-      "m2": "<a:equis:934904102679371856> | You are already married, do you want to be unfaithful O.O?",
-      "m3": "<a:equis:934904102679371856> | The user mentioned above is already married, too bad for you.",
+      "m1": ":x: | You must mention a user to get married!",
+      "m2": ":x: | You are already married, do you want to be unfaithful O.O?",
+      "m3": ":x: | The user mentioned above is already married, too bad for you.",
       "m4": "Accept",
       "m5": "Reject",
       "m6": "I send you a marriage proposal, do you accept or reject it?",
@@ -382,8 +383,8 @@
       "m9": "just rejected you"
     },
     "divorce": {
-      "d1": "<a:equis:934904102679371856> | You are not married at the moment!",
-      "d2": "<a:paloma:934928358461046897> | I don't know your reasons but I can't say no, you are no longer married!"
+      "d1": ":x: | You are not married at the moment!",
+      "d2": ":p: | I don't know your reasons but I can't say no, you are no longer married!"
     }
   }
 }
