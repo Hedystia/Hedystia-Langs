@@ -290,59 +290,7 @@
     }
   },
   "tickets": {
-    "config": {
-      "title": {
-        "t1": ":x: | Lütfen yerleştirme için başlığı söyleyin!",
-        "t2": ":p: | Yerleştirme başlığı az önce güncellendi!"
-      },
-      "description": {
-        "d1": ":x: | Lütfen bana yerleştirme için açıklamayı söyleyin!",
-        "d2": ":p: | Yerleştirme açıklamasını güncelledim!"
-      },
-      "color": {
-        "c1": ":x: | Lütfen bana gömme için renk söyleyin!",
-        "c2": ":x: | Geçerli bir hex renk örneği değil: #ffffff !",
-        "c3": ":p: | Gömme rengi az önce güncellendi!"
-      },
-      "send": {
-        "s1": ":x: | Oluşturma katıştırması gönderilemedi {0} izniniz olup olmadığını kontrol edin!",
-        "s2": ":p: | The embed has just been sent successfully!"
-      },
-      "text": {
-        "t1": ":x: | Lütfen bana düğme metnini söyleyin!",
-        "t2": ":p: | Düğme metni az önce güncellendi!"
-      },
-      "category": {
-        "c1": ":x: | Bu kategoriyi sunucuda bulamıyorum!",
-        "c2": ":p: | Bilet kategorisi az önce güncellendi!"
-      },
-      "buttons": {
-        "color": {
-          "c1": "Mavi",
-          "c2": "Gri",
-          "c3": "Yeşil",
-          "c4": "Kırmızı"
-        },
-        "color_msg": {
-          "c1": ":p: | İstediğiniz renk düğmesini seçin!",
-          "c2": ":x: | Bu senin renk seçimin değil!",
-          "c3": ":p: | Düğme rengi az önce güncellendi!"
-        },
-        "text": {
-          "t1": ":x: | Bana düğmenin üzerinde ne yazacağını söyleyin!",
-          "t2": ":p: | Düğme metni az önce güncellendi!"
-        },
-        "toggle": {
-          "t1": ":p: | Bu düğme az önce etkinleştirildi!",
-          "t2": ":p: | Bu düğme az önce devre dışı bırakıldı!"
-        }
-      },
-      "db_add": ":x: | Bir sorun oluştu komutu tekrar kullanın!",
-      "support": {
-        "s1": ":x: | Destek rolünün kimliğini göndermelisiniz!",
-        "s2": ":p: | Destek rolünü başarıyla güncelledim!"
-      }
-    },
+    "config": ":p: | Biletleri yapılandırmak istiyorsanız, bunu kontrol panelinden yapabilirsiniz",
     "events": {
       "create": ":p: | Biletiniz {0} açıldı!",
       "all_ready": ":x: | Zaten açık bir biletiniz var!",
@@ -352,7 +300,7 @@
       },
       "support_role": ":x: | Yapılandırılmış bir destek rolü yok!",
       "close": "Kapat",
-      "err": ":x: | Kategoride kanal oluşturma, oluşturulan destek taleplerini görüntüleme, kanalları düzenleme ve ekleme mesajları gönderme izinlerinizin olup olmadığını kontrol edin!",
+      "err": ":x: | Bu kategoride kanal oluşturma, rolleri düzenleme ve kanalı görüntüleme iznim olup olmadığını kontrol edin!",
       "button_close": {
         "b1": "Yeniden Aç",
         "b2": "Silme"

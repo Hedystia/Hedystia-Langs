@@ -290,59 +290,7 @@
     }
   },
   "tickets": {
-    "config": {
-      "title": {
-        "t1": ":x: | S'il te plaît, dis-moi le titre pour l'intégration !",
-        "t2": ":p: | Le titre de l'embed vient d'être mis à jour !"
-      },
-      "description": {
-        "d1": ":x: | S'il vous plaît, dites-moi la description pour l'intégration !",
-        "d2": ":p: | Je viens de mettre à jour la description de l'intégration !"
-      },
-      "color": {
-        "c1": ":x: | S'il vous plaît, dites-moi la couleur pour l'encastrement !",
-        "c2": ":x: | Ce n'est pas une couleur hexagonale valide exemple : #ffffff !",
-        "c3": ":p: | La couleur d'intégration vient d'être mise à jour !"
-      },
-      "send": {
-        "s1": ":x: | Impossible d'envoyer l'intégration de la création pour vérifier qu'elle a les permissions {0} !",
-        "s2": ":p: | L'intégration vient d'être envoyée avec succès !"
-      },
-      "text": {
-        "t1": ":x: | S'il vous plaît, dites-moi le texte pour le bouton !",
-        "t2": ":p: | Le texte du bouton vient d'être mis à jour !"
-      },
-      "category": {
-        "c1": ":x: | Je ne trouve pas cette catégorie sur le serveur !",
-        "c2": ":p: | La catégorie des billets vient d'être mise à jour !"
-      },
-      "buttons": {
-        "color": {
-          "c1": "Bleu",
-          "c2": "Gris",
-          "c3": "Vert",
-          "c4": "Rouge"
-        },
-        "color_msg": {
-          "c1": ":p: | Sélectionnez le bouton dans la couleur de votre choix !",
-          "c2": ":x: | Ce n'est pas votre choix de couleur !",
-          "c3": ":p: | La couleur du bouton vient d'être mise à jour !"
-        },
-        "text": {
-          "t1": ":x: | Dites-moi ce qui est écrit sur le bouton !",
-          "t2": ":p: | Le texte du bouton vient d'être mis à jour !"
-        },
-        "toggle": {
-          "t1": ":p: | Ce bouton vient d'être activé !",
-          "t2": ":p: | Ce bouton vient d'être désactivé !"
-        }
-      },
-      "db_add": ":x: | Il y a eu un problème, utilisez la commande à nouveau !",
-      "support": {
-        "s1": ":x: | Vous devez envoyer l'identifiant du rôle de support !",
-        "s2": ":p: | Je viens de mettre à jour le rôle de support avec succès !"
-      }
-    },
+    "config": ":p: | Si vous voulez configurer les tickets, vous pouvez le faire à partir du tableau de bord.",
     "events": {
       "create": ":p: | Votre ticket {0} a été ouvert !",
       "all_ready": ":x: | Vous avez déjà un ticket ouvert !",
@@ -352,7 +300,7 @@
       },
       "support_role": ":x: | Il n'y a pas de rôle de soutien configuré !",
       "close": "Fermer",
-      "err": ":x: | Vérifiez que vous avez les permissions de créer le canal dans la catégorie, de voir les tickets créés, de modifier les canaux et d'envoyer des messages intégrés !",
+      "err": ":x: | Vérifier si j'ai la permission de créer des canaux dans cette catégorie, de modifier les rôles et de visualiser les canaux !",
       "button_close": {
         "b1": "Rouvrir",
         "b2": "Supprimer"

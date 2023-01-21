@@ -290,59 +290,7 @@
     }
   },
   "tickets": {
-    "config": {
-      "title": {
-        "t1": ":x: | Favor de decirme el titulo para el embed!",
-        "t2": ":p: | Se acaba de actualizar el titulo del embed!"
-      },
-      "description": {
-        "d1": ":x: | Favor de decirme la descripcion para el embed!",
-        "d2": ":p: | Se acaba de actualizar la descripcion del embed!"
-      },
-      "color": {
-        "c1": ":x: | Favor de decirme el color para el embed!",
-        "c2": ":x: | No es un color hex valido ejemplo: #ffffff!",
-        "c3": ":p: | Se acaba de actualizar el color del embed!"
-      },
-      "send": {
-        "s1": ":x: | No se pudo mandar el embed de creacion revise que tenga los permisos de {0}!",
-        "s2": ":p: | Se acaba de enviar el embed con exito!"
-      },
-      "text": {
-        "t1": ":x: | Favor de decirme el texto para el boton!",
-        "t2": ":p: | Se acaba de actualizar el texto del boton!"
-      },
-      "category": {
-        "c1": ":x: | No puede encontrar esa categoria en el servidor!",
-        "c2": ":p: | Se acaba de actualizar la categoria de los ticket!"
-      },
-      "buttons": {
-        "color": {
-          "c1": "Azul",
-          "c2": "Gris",
-          "c3": "Verde",
-          "c4": "Rojo"
-        },
-        "color_msg": {
-          "c1": ":p: | Selecciona el boton del color que quieras!",
-          "c2": ":x: | Esta no es tu seleccion de color!",
-          "c3": ":p: | Se acaba de actualizar el color del boton!"
-        },
-        "text": {
-          "t1": ":x: | Dime lo que tendra escrito el boton!",
-          "t2": ":p: | Se acaba de actualizar el texto del boton!"
-        },
-        "toggle": {
-          "t1": ":p: | Se acaba de activar este boton!",
-          "t2": ":p: | Se acaba de desactivar este boton!"
-        }
-      },
-      "db_add": ":x: | Hubo un problema usa el comando de nuevo!",
-      "support": {
-        "s1": ":x: | Debes de mandar el id del rol de soporte!",
-        "s2": ":p: | Se acaba de actualizar el rol de soporte con exito!"
-      }
-    },
+    "config": ":p: | Si quieres configurar los tickets puedes hacerlo desde el dashboard",
     "events": {
       "create": ":p: | Tu ticket {0} se ha abierto!",
       "all_ready": ":x: | Ya tienes un ticket abierto!",
@@ -352,7 +300,7 @@
       },
       "support_role": ":x: | No hay ningun rol de soporte configurado!",
       "close": "Cerrar",
-      "err": ":x: | Revisa que tenga permisos para crear el canal en la categoria, ver los tickets creados, editar canales y enviar mensajes embed!",
+      "err": ":x: | Revise si tengo el permiso de crear canales en esa categoria, editar roles y ver canal!",
       "button_close": {
         "b1": "Reabrir",
         "b2": "Eliminar"

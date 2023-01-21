@@ -290,59 +290,7 @@
     }
   },
   "tickets": {
-    "config": {
-      "title": {
-        "t1": ":x: | Please tell me the title for the embed!",
-        "t2": ":p: | The embed title has just been updated!"
-      },
-      "description": {
-        "d1": ":x: | Please tell me the description for the embed!",
-        "d2": ":p: | Just updated the embed description!"
-      },
-      "color": {
-        "c1": ":x: | Please tell me the color for the embed!",
-        "c2": ":x: | Not a valid hex color example: #ffffff!",
-        "c3": ":p: | The embed color has just been updated!"
-      },
-      "send": {
-        "s1": ":x: | Could not send the creation embed check that you have {0} permissions!",
-        "s2": ":p: | The embed has just been sent successfully!"
-      },
-      "text": {
-        "t1": ":x: | Please tell me the text for the button!",
-        "t2": ":p: | The button text has just been updated!"
-      },
-      "category": {
-        "c1": ":x: | Cannot find this category on the server!",
-        "c2": ":p: | The ticket category has just been updated!"
-      },
-      "buttons": {
-        "color": {
-          "c1": "Blue",
-          "c2": "Gray",
-          "c3": "Green",
-          "c4": "Red"
-        },
-        "color_msg": {
-          "c1": ":p: | Select the color button of your choice!",
-          "c2": ":x: | This is not your color selection!",
-          "c3": ":p: | The button color has just been updated!"
-        },
-        "text": {
-          "t1": ":x: | Tell me what will be written on the button!",
-          "t2": ":p: | The button text has just been updated!"
-        },
-        "toggle": {
-          "t1": ":p: | This button has just been activated!",
-          "t2": ":p: | This button has just been deactivated!"
-        }
-      },
-      "db_add": ":x: | There was a problem use the command again!",
-      "support": {
-        "s1": ":x: | You must send the id of the support role!",
-        "s2": ":p: | Just updated the support role successfully!"
-      }
-    },
+    "config": ":p: | If you want to configure the tickets you can do it from the dashboard",
     "events": {
       "create": ":p: | Your ticket {0} has been opened!",
       "all_ready": ":x: | You already have an open ticket!",
@@ -352,7 +300,7 @@
       },
       "support_role": ":x: | There is no support role configured!",
       "close": "Close",
-      "err": ":x: | Check that you have permissions to create the channel in the category, view created tickets, edit channels and send embed messages!",
+      "err": ":x: | Check if I have the permission to create channels in that category, edit roles and view channel!",
       "button_close": {
         "b1": "Reopen",
         "b2": "Delete"
