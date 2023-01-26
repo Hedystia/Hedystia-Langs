@@ -146,7 +146,7 @@
       "ticket1": "Tickets",
       "ticket2": "**Commands :f:**\n```tickets ∫ panel ∫ close\n```",
       "image1": "Images",
-      "image2": "**Commands :f:**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete ∫ jail```",
+      "image2": "**Commands :f:**\n```ad ∫ affect ∫ beautiful\nbobross ∫ hitler∫ confusedstonk\ndelete ∫ jail ∫ batslap\nbed ∫ challenger ∫ rip```",
       "marry1": "Marriage",
       "marry2": "**Commands :f:**\n```marry ∫ divorce\n```"
     },
@@ -165,7 +165,7 @@
     "invite4": "Support",
     "botinfo1": "Privacy",
     "botinfo2": "Terms",
-    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Public commands:**__ 66\n__**Slash commands:**__ 28\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Esmile.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
+    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Public commands:**__ 70\n__**Slash commands:**__ 28\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Esmile.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
     "contact1": "To contact my creator you must open a ticket on the following server"
   },
   "utility": {

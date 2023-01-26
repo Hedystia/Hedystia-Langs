@@ -146,7 +146,7 @@
       "ticket1": "التيكتات",
       "ticket2": "**الاوامر :f:**\n```tickets ∫ panel ∫ close\n```",
       "image1": "الصور",
-      "image2": "**الاوامر :f:**\n```add ∫ affect ∫ beautiful\nbobross ∫ color ∫ confusedstonk\ndelete ∫ jail```",
+      "image2": "**الاوامر :f:**\n```ad ∫ affect ∫ beautiful\nbobross ∫ hitler∫ confusedstonk\ndelete ∫ jail ∫ batslap\nbed ∫ challenger ∫ rip```",
       "marry1": "الزواج",
       "marry2": "**الاوامر :f:**\n```marry ∫ divorce\n```"
     },
@@ -165,7 +165,7 @@
     "invite4": "الدعم",
     "botinfo1": "الخصوصيه",
     "botinfo2": "الشروط",
-    "botinfo3": "__**الموْسس:**__ Zastinian#8451\n__**عدد السيرفرات:**__ {servers}\n__**الاوامر العامه:**__ 66\n__**اوامر السلاش:**__ 28\n__**فىْات لوحة التحكم:**__ 4\n__**اختيارات لوحة التحكم:**__ 8\n__**المكتبه:**__ Esmile.js\n__**اصدار المكتبه:**__ v{versionlib}\n__**اصدار NodeJS:**__ v{nodeversion}\n__**البينق:**__ {ping}ms\n__**تاريخ الانشاء:**__ {createat}",
+    "botinfo3": "__**الموْسس:**__ Zastinian#8451\n__**عدد السيرفرات:**__ {servers}\n__**الاوامر العامه:**__ 70\n__**اوامر السلاش:**__ 28\n__**فىْات لوحة التحكم:**__ 4\n__**اختيارات لوحة التحكم:**__ 8\n__**المكتبه:**__ Esmile.js\n__**اصدار المكتبه:**__ v{versionlib}\n__**اصدار NodeJS:**__ v{nodeversion}\n__**البينق:**__ {ping}ms\n__**تاريخ الانشاء:**__ {createat}",
     "contact1": "للتواصل مع المطور يجب عليك ان تقوم بفتح تيكت من السيرفر المقابل"
   },
   "utility": {
@@ -318,7 +318,7 @@
   },
   "antilinks": "{0} الروابط غير مسموح بها على هذا الخادم!",
   "antinsfw": "{0} لا ترسل هذا النوع من الصور!",
-  "زواج": {
+  "marry": {
     "marry": {
       "m1": ":x: | يجب أن تذكر المستخدم حتى تتزوج!",
       "m2": ":x: | أنت متزوج بالفعل ، هل تريد أن تكون O.O غير مخلص؟",
