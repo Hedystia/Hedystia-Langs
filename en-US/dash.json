@@ -1,0 +1,217 @@
+{
+  "416": {
+    "title": "Error 416 - Range Not Satisfiable",
+    "description": "The page has requested a portion of a resource that is incorrect.",
+    "action": "Go back to the previous page to see the content correctly."
+  },
+  "dashboard": {
+    "servers": {
+      "title": "Servers",
+      "descriptions": {
+        "d1": "Edit your server configuration",
+        "d2": "You have to add esmile to this server to be able to configure it"
+      }
+    },
+    "automod": {
+      "title": "AutoMod",
+      "options": {
+        "o1": "Anti-Links",
+        "o2": "Anti-Alts",
+        "o3": "Anti-Nsfw"
+      },
+      "globalOptions": {
+        "g1": "Ignored Users:",
+        "g2": "Ignored Channels:",
+        "g3": "Ignored Roles:",
+        "g4": "Creation Day:",
+        "g5": "Log Channel:",
+        "g6": "Allowed Alts:",
+        "g7": "Action:"
+      },
+      "globalDescriptionOptions": {
+        "g1": "Whitelist certain User IDs",
+        "g2": "Whitelist certain Channel IDs",
+        "g3": "Whitelist certain Roles IDs",
+        "g4": "The time the account was created ( 1 - 100 ) [d / days]",
+        "g5": "The channel where the alts will be sent",
+        "g6": "The alts who will be ignored",
+        "g7": "The action to take"
+      }
+    },
+    "commands": {
+      "title": "Commands",
+      "search": "Search for commands",
+      "example": "Usage Example:"
+    },
+    "config": {
+      "title": "Settings",
+      "info": {
+        "i1": "Total Members",
+        "i2": "Total Channels",
+        "i3": "Total Roles",
+        "i4": "Total Boost"
+      },
+      "settings": {
+        "s1": "Nickname",
+        "s2": "Language"
+      }
+    },
+    "embeds": {
+      "content": "Message Content",
+      "author": {
+        "title": "Author",
+        "url": "Icon URL",
+        "name": "Author Name"
+      },
+      "title": "Title",
+      "description": {
+        "title": "Description",
+        "holder": "Embed Description"
+      },
+      "fields": {
+        "title": "Fields",
+        "new": "New Field",
+        "name": "Field Name",
+        "value": "Field Value",
+        "inline": "Inline",
+        "remove": "Remove"
+      },
+      "thumbnail": {
+        "title": "Thumbnail",
+        "url": "Thumbnail URL"
+      },
+      "image": {
+        "title": "Image",
+        "url": "Image URL"
+      },
+      "footer": {
+        "title": "Footer",
+        "icon": "Icon URL",
+        "text": "Footer Text"
+      },
+      "addEmbed": "Add Embed",
+      "color": "Pick the embed color",
+      "errors": {
+        "e1": "is not a valid embed number",
+        "e2": "doesn't seem like a number between 1 and",
+        "e3": "URL should have a protocol. Did you mean",
+        "e4": "Could not find the embed to add the field to.",
+        "e5": "Cannot have more than 25 fields",
+        "e6": "Failed to find the index of the field to remove.",
+        "e7": "Invalid date",
+        "e8": "Request failed with error:",
+        "e9": "Could not find the embed to add the field to.",
+        "e10": "are invalid keys.",
+        "e11": "is an invalid key.",
+        "e12": "and",
+        "e13": "should not be empty.",
+        "e14": "There's nothing to send.",
+        "e15": "Enter an embed number",
+        "e16": "Here's the current URL with base64 embed data:",
+        "e17": "File is too large. Maximum size is 32 MB.",
+        "e18": "Some data is missing",
+        "e19": "I'm missing 'ViewChannel' permissions",
+        "e20": "I'm missing 'SendMessages' permissions",
+        "e21": "I'm missing 'EmbedLinks' permissions",
+        "e22": "The limit is 10 embeds!"
+      }
+    },
+    "globalchat": {
+      "title": "Global Chat",
+      "options": {
+        "o1": "Mentioning Bot",
+        "o2": "Channel:",
+        "o3": "Language:"
+      }
+    },
+    "tickets": {
+      "title": "Tickets",
+      "options": {
+        "o1": "Category:",
+        "o2": "Support Role:",
+        "o3": "Create",
+        "o4": "Delete",
+        "o5": "Mini",
+        "o6": "Buttons"
+      }
+    }
+  },
+  "error": {
+    "title": "Error 404 - Page Not Found",
+    "topic": "Are you sure this site exists?",
+    "description": "If you are sure you can contact me, if not you can click on the button below to go to the menu."
+  },
+  "index": "With almost every feature you can think of,\nAs well as a dedicated staff,\nEsmile is the perfect complement to any Discord server",
+  "partners": "Partners",
+  "privacy": {
+    "titles": {
+      "t1": "Privacy Policy",
+      "t2": "Stored Data",
+      "t3": "Additional Information"
+    },
+    "descriptions": {
+      "d1": "By adding esmile to your server, you are accepting the bot policy.\nRemember that you must also inform the users of your server about our policy.\nIf you don't like our policy, you have no right to put the bot on your server.\n\nThis policy is effective as of November 23, 2021 and was last updated on March 28, 2022.",
+      "d2": "For the bot to work we must collect some data from the server and some data from the users.\n\n:m:Server Data::m:",
+      "d3": ":p:Channel Names:p:\n:p:Channel Permissions:p:\n:p:Role Information:p:",
+      "d4": ":m:User Data::m:",
+      "d5": ":p:User Avatars:p:\n:p:User Banner:p:\n:p:Username:p:\n:p:User Tags:p:\n:p:User Permits:p:",
+      "d6": ":p:The data of the users, together with the configuration of the server, among more information. It can be removed at any time.:p:\n:p:User data cannot be transferred, that also includes server configuration among other sections.:p:"
+    }
+  },
+  "terms": {
+    "titles": {
+      "t1": "Terms and Conditions",
+      "t2": "Important",
+      "t3": "Additional Information"
+    },
+    "descriptions": {
+      "d1": "By adding esmile to your server you are accepting the terms of our service.\nRemember that you must also tell the users of your server about our terms.\nIf you don't like our terms you have no right to put the bot on your server.\n\nThese terms are effective from November 23, 2021 and were last updated on December 27, 2022.",
+      "d2": "It is forbidden to use esmile against the :m:ToS De Discord or Illegal Purposes:m:, the developer is avoiding these activities as much as possible while trying to provide the best experience for users.\nIf you find to a user or community that uses Esmile against :m:Discord ToS:m: or even for :m:Illegal Activities:m: we will beobliged to block it from the bot\nIf it finds any activity of the above mentioned please contact through the following link :l:Esmile Support Server:l:",
+      "d3": ":p:Access to the sections and features of the bot can be revoked and/or blocked for a specific time or permanently, for all specific users, at any desired time.:p:\n:p:Esmile is a bot there is no guarantee that it will continue to work in the future, we also do not guarantee that we will continue to use the same commands or the purpose of the bot can change at any time the developer intends it.:p:"
+    }
+  },
+  "g": {
+    "invite": "Invite",
+    "menu": "Menu",
+    "login": "Login With Discord",
+    "web": "Web",
+    "logout": "Logout",
+    "manage": "Manage",
+    "update": "Update",
+    "embed": "Embed",
+    "clear": "Clear",
+    "button": "Button",
+    "view": "View",
+    "text": "Text",
+    "color": "Color",
+    "enable": "Enable",
+    "category": "Category"
+  },
+  "colors": {
+    "gray": "Gray",
+    "blue": "Blue",
+    "green": "Green",
+    "red": "Red"
+  },
+  "globalActions": {
+    "none": "None",
+    "kick": "Kick",
+    "ban": "Ban"
+  },
+  "nav": {
+    "web": {
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "dashboard": "Dashboard",
+      "partners": "Partners"
+    },
+    "dashboard": {
+      "settings": "Settings",
+      "tickets": "Tickets",
+      "globalChat": "GlobalChat",
+      "autoMod": "AutoMod",
+      "commands": "Commands",
+      "embeds": "Embeds"
+    }
+  }
+}

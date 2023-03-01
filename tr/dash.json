@@ -1,0 +1,217 @@
+{
+  "416": {
+    "title": "Hata 416 - Aralık Uygun Değil",
+    "description": "Sayfa, bir kaynağın hatalı bir bölümünü talep etti.",
+    "action": "İçeriği doğru şekilde görmek için önceki sayfaya geri dönün."
+  },
+  "dashboard": {
+    "servers": {
+      "title": "Sunucular",
+      "descriptions": {
+        "d1": "Sunucu yapılandırmanızı düzenleme",
+        "d2": "Yapılandırabilmek için bu sunucuya esmile eklemeniz gerekir"
+      }
+    },
+    "automod": {
+      "title": "OtoMod",
+      "options": {
+        "o1": "Anti-Bağlantılar",
+        "o2": "Anti-Alts",
+        "o3": "Anti-Nsfw"
+      },
+      "globalOptions": {
+        "g1": "Yoksayılan Kullanıcılar:",
+        "g2": "Görmezden gelinen kanallar:",
+        "g3": "Göz ardı edilen roller:",
+        "g4": "Yaratılış Günü:",
+        "g5": "Günlük Kanalı:",
+        "g6": "İzin Verilen Alts:",
+        "g7": "Eylem:"
+      },
+      "globalDescriptionOptions": {
+        "g1": "Belirli Kullanıcı Kimliklerini Beyaz Listeye Al",
+        "g2": "Belirli Kanal Kimliklerini Beyaz Listeye Al",
+        "g3": "Belirli Rol Kimliklerini Beyaz Listeye Al",
+        "g4": "Hesabın oluşturulduğu zaman ( 1 - 100 ) [g / gün]",
+        "g5": "Alts'ın gönderileceği kanal",
+        "g6": "Göz ardı edilecek altlar",
+        "g7": "Gerçekleştirilecek eylem"
+      }
+    },
+    "commands": {
+      "title": "Komutlar",
+      "search": "Komutları arayın",
+      "example": "Kullanım Örneği:"
+    },
+    "config": {
+      "title": "Ayarlar",
+      "info": {
+        "i1": "Toplam Üye Sayısı",
+        "i2": "Toplam Kanallar",
+        "i3": "Toplam Roller",
+        "i4": "Toplam Güçlendirme"
+      },
+      "settings": {
+        "s1": "Takma ad",
+        "s2": "Dil"
+      }
+    },
+    "embeds": {
+      "content": "Mesaj İçeriği\n",
+      "author": {
+        "title": "Yazar",
+        "url": "Simge URL'si",
+        "name": "Yazar Adı"
+      },
+      "title": "Başlık",
+      "description": {
+        "title": "Açıklama",
+        "holder": "Embed Açıklama"
+      },
+      "fields": {
+        "title": "Alanlar",
+        "new": "Yeni Saha",
+        "name": "Alan Adı",
+        "value": "Alan Değeri",
+        "inline": "Satır içi",
+        "remove": "Kaldırmak"
+      },
+      "thumbnail": {
+        "title": "Küçük Resim",
+        "url": "Küçük Resim URL'si"
+      },
+      "image": {
+        "title": "Resim",
+        "url": "Resim URL'si"
+      },
+      "footer": {
+        "title": "Altbilgi",
+        "icon": "Simge URL'si",
+        "text": "Altbilgi Metni"
+      },
+      "addEmbed": "Yerleştirme Ekle",
+      "color": "Gömme rengini seçin",
+      "errors": {
+        "e1": "geçerli bir katıştırma numarası değil",
+        "e2": "bir sayı gibi görünmüyor",
+        "e3": "URL'nin bir protokolü olmalıdır. Şunu mu demek istediniz",
+        "e4": "Alanın ekleneceği gömüyü bulamadı.",
+        "e5": "25'ten fazla alana sahip olamaz",
+        "e6": "Kaldırılacak alanın dizini bulunamadı.",
+        "e7": "Geçersiz tarih",
+        "e8": "İstek hata ile başarısız oldu:",
+        "e9": "Alanın ekleneceği gömüyü bulamadı.",
+        "e10": "geçersiz anahtarlardır.",
+        "e11": "geçersiz bir anahtardır.",
+        "e12": "ve",
+        "e13": "boş olmamalıdır.",
+        "e14": "Gönderecek bir şey yok.",
+        "e15": "Bir katıştırma numarası girin",
+        "e16": "İşte base64 gömme verileriyle birlikte geçerli URL:",
+        "e17": "Dosya çok büyük. Maksimum boyut 32 MB'dir.",
+        "e18": "Bazı veriler eksik",
+        "e19": "'Kanalı Görüntüle' izinlerini kaçırıyorum",
+        "e20": "'Mesaj Gönder' izinlerini kaçırıyorum",
+        "e21": "'Bağlantıları Yerleştir' izinlerini kaçırıyorum",
+        "e22": "Sınır 10 yerleştirmedir!"
+      }
+    },
+    "globalchat": {
+      "title": "Küresel Sohbet",
+      "options": {
+        "o1": "Bottan Bahsetmek",
+        "o2": "Kanal:",
+        "o3": "Dil:"
+      }
+    },
+    "tickets": {
+      "title": "Biletler",
+      "options": {
+        "o1": "Kategori:",
+        "o2": "Destek Rolü:",
+        "o3": "Oluştur",
+        "o4": "Silme",
+        "o5": "Mini",
+        "o6": "Düğmeler"
+      }
+    }
+  },
+  "error": {
+    "title": "Hata 404 - Sayfa Bulunamadı",
+    "topic": "Bu sitenin var olduğuna emin misin?",
+    "description": "Eğer eminseniz benimle iletişime geçebilirsiniz, değilseniz menüye gitmek için aşağıdaki butona tıklayabilirsiniz."
+  },
+  "index": "Aklınıza gelebilecek neredeyse her özelliğe sahip,\nÖzel bir personelin yanı sıra,\nEsmile her Discord sunucusu için mükemmel bir tamamlayıcıdır",
+  "partners": "Ortaklar",
+  "privacy": {
+    "titles": {
+      "t1": "Gizlilik Politikası",
+      "t2": "Saklanan Veriler",
+      "t3": "Ek Bilgi"
+    },
+    "descriptions": {
+      "d1": "Sunucunuza esmile ekleyerek bot politikasını kabul etmiş olursunuz.\nSunucunuzdaki kullanıcıları da politikamız hakkında bilgilendirmeniz gerektiğini unutmayın.\nPolitikamızı beğenmiyorsanız, botu sunucunuza koyma hakkınız yoktur.\n\nBu politika 23 Kasım 2021 tarihinden itibaren geçerlidir ve en son 28 Mart 2022 tarihinde güncellenmiştir.",
+      "d2": "Botun çalışması için sunucudan bazı veriler ve kullanıcılardan bazı veriler toplamalıyız.\n\n:m:Sunucu Verileri::m:",
+      "d3": ":p:Kanal İsimleri:p:\n:p:Kanal İzinleri:p:\n:p:Rol Bilgileri:p:",
+      "d4": ":m:Kullanıcı Verileri::m:",
+      "d5": ":p:Kullanıcı Avatarları:p:\n:p:Kullanıcı Afişi:p:\n:p:Kullanıcı adı:p:\n:p:Kullanıcı Etiketleri:p:\n:p:Kullanıcı İzinleri:p:",
+      "d6": ":p:Kullanıcıların verileri, sunucunun yapılandırması ile birlikte, daha fazla bilgi arasında. İstenildiği zaman kaldırılabilir.:p:\n:p:Kullanıcı verileri aktarılamaz, bu diğer bölümlerin yanı sıra sunucu yapılandırmasını da içerir.:p:"
+    }
+  },
+  "terms": {
+    "titles": {
+      "t1": "Şartlar ve Koşullar",
+      "t2": "Önemli",
+      "t3": "Ek Bilgi"
+    },
+    "descriptions": {
+      "d1": "Sunucunuza esmile ekleyerek hizmet şartlarımızı kabul etmiş olursunuz.\nSunucunuzdaki kullanıcılara da şartlarımız hakkında bilgi vermeniz gerektiğini unutmayın.\nŞartlarımızı beğenmiyorsanız, botu sunucunuza koyma hakkınız yoktur.\n\nBu koşullar 23 Kasım 2021 tarihinden itibaren geçerlidir ve en son 27 Aralık 2022 tarihinde güncellenmiştir.",
+      "d2": "Esmile'i :m:ToS De Discord veya Yasadışı Amaçlar:m:'a karşı kullanmak yasaktır, geliştirici, kullanıcılar için en iyi deneyimi sağlamaya çalışırken bu faaliyetlerden mümkün olduğunca kaçınmaktadır.\nEsmile'i :m:Discord ToS:m:'a karşı veya hatta :m:Illegal Activities:m: için kullanan bir kullanıcı veya topluluk bulursanız, bottan engellemek zorunda kalacağız\nYukarıda belirtilen herhangi bir etkinlik bulursa, lütfen aşağıdaki bağlantı aracılığıyla iletişime geçin :l:Esmile Destek Sunucusu:l:",
+      "d3": ":p:Botun bölümlerine ve özelliklerine erişim, belirli bir süre için veya kalıcı olarak, tüm belirli kullanıcılar için, istenen herhangi bir zamanda iptal edilebilir ve/veya engellenebilir.:p:\n:p:Esmile bir bottur, gelecekte çalışmaya devam edeceğinin garantisi yoktur, aynı komutları kullanmaya devam edeceğimizi de garanti etmiyoruz veya botun amacı geliştiricinin istediği herhangi bir zamanda değişebilir.:p:"
+    }
+  },
+  "g": {
+    "invite": "Davetiye",
+    "menu": "Menü",
+    "login": "Discord ile Giriş Yapın",
+    "web": "Web",
+    "logout": "Oturum Kapatma",
+    "manage": "Yönetmek",
+    "update": "Güncelleme",
+    "embed": "Gömmek",
+    "clear": "Temiz",
+    "button": "Düğme",
+    "view": "Görünüm",
+    "text": "Metin",
+    "color": "Renk",
+    "enable": "Etkinleştir",
+    "category": "Kategori"
+  },
+  "colors": {
+    "gray": "Gri",
+    "blue": "Mavi",
+    "green": "Yeşil",
+    "red": "Kırmızı"
+  },
+  "globalActions": {
+    "none": "Hiçbiri",
+    "kick": "Tekme",
+    "ban": "Ban"
+  },
+  "nav": {
+    "web": {
+      "terms": "Şartlar",
+      "privacy": "Gizlilik",
+      "dashboard": "Gösterge Tablosu",
+      "partners": "Ortaklar"
+    },
+    "dashboard": {
+      "settings": "Ayarlar",
+      "tickets": "Biletler",
+      "globalChat": "KüreselSohbet",
+      "autoMod": "OtoMod",
+      "commands": "Komutlar",
+      "embeds": "Embeds"
+    }
+  }
+}

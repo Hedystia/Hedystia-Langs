@@ -1,0 +1,217 @@
+{
+  "416": {
+    "title": "Erreur 416 - Range Not Satisfiable",
+    "description": "La page a demandé une partie d'une ressource qui est incorrecte.",
+    "action": "Revenez à la page précédente pour voir le contenu correctement."
+  },
+  "dashboard": {
+    "servers": {
+      "title": "Serveurs",
+      "descriptions": {
+        "d1": "Modifier la configuration de votre serveur",
+        "d2": "Vous devez ajouter esmile à ce serveur pour pouvoir le configurer"
+      }
+    },
+    "automod": {
+      "title": "AutoMod",
+      "options": {
+        "o1": "Anti-Liens",
+        "o2": "Anti-Alts",
+        "o3": "Anti-Nsfw"
+      },
+      "globalOptions": {
+        "g1": "Utilisateurs Ignorés :",
+        "g2": "Canaux Ignorés :",
+        "g3": "Rôles Ignorés :",
+        "g4": "Date de Création :",
+        "g5": "Canal Log :",
+        "g6": "Alts Autorisés :",
+        "g7": "Action :"
+      },
+      "globalDescriptionOptions": {
+        "g1": "Liste blanche de certains identifiants d'utilisateur",
+        "g2": "Mettre sur liste blanche certains identifiants de canaux",
+        "g3": "Liste blanche de certains ID de rôles",
+        "g4": "L'heure à laquelle le compte a été créé ( 1 - 100 ) [j / jours]",
+        "g5": "Le canal où les alts seront envoyés",
+        "g6": "The alts who will be ignored",
+        "g7": "L'action à entreprendre"
+      }
+    },
+    "commands": {
+      "title": "Commandes",
+      "search": "Recherche de commandes",
+      "example": "Exemple d'utilisation :"
+    },
+    "config": {
+      "title": "Paramètres",
+      "info": {
+        "i1": "Total des Membres",
+        "i2": "Total des Canaux",
+        "i3": "Rôles Totaux",
+        "i4": "Total Boost"
+      },
+      "settings": {
+        "s1": "Surnom",
+        "s2": "Langue"
+      }
+    },
+    "embeds": {
+      "content": "Contenu du Message",
+      "author": {
+        "title": "Auteur",
+        "url": "URL de l'icône",
+        "name": "Nom de l'auteur"
+      },
+      "title": "Titre",
+      "description": {
+        "title": "Description",
+        "holder": "Embed Description"
+      },
+      "fields": {
+        "title": "Champs",
+        "new": "Nouveau champ",
+        "name": "Nom du champ",
+        "value": "Valeur du champ",
+        "inline": "En ligne",
+        "remove": "Retirer"
+      },
+      "thumbnail": {
+        "title": "Vignette",
+        "url": "URL de la vignette"
+      },
+      "image": {
+        "title": "Image",
+        "url": "URL de l'image"
+      },
+      "footer": {
+        "title": "Pied de page",
+        "icon": "URL de l'icône",
+        "text": "Texte du pied de page"
+      },
+      "addEmbed": "Ajouter une image",
+      "color": "Choisissez la couleur de l'encastrement",
+      "errors": {
+        "e1": "n'est pas un numéro d'incorporation valide",
+        "e2": "n'a pas l'air d'être un nombre compris entre 1 et",
+        "e3": "L'URL doit avoir un protocole. Voulez-vous dire",
+        "e4": "Impossible de trouver l'intégration à laquelle ajouter le champ.",
+        "e5": "Il ne peut y avoir plus de 25 champs",
+        "e6": "Impossible de trouver l'index du champ à supprimer.",
+        "e7": "Date non valide",
+        "e8": "La demande a échoué avec une erreur :",
+        "e9": "Impossible de trouver l'intégration à laquelle ajouter le champ.",
+        "e10": "sont des clés invalides.",
+        "e11": "est une clé invalide.",
+        "e12": "et",
+        "e13": "ne doit pas être vide.",
+        "e14": "Il n'y a rien à envoyer.",
+        "e15": "Entrez un numéro d'incorporation",
+        "e16": "Voici l'URL actuelle avec les données intégrées en base64 :",
+        "e17": "Le fichier est trop volumineux. La taille maximale est de 32 Mo.",
+        "e18": "Certaines données sont manquantes",
+        "e19": "Il me manque les autorisations \"Voir la chaîne\"",
+        "e20": "Il me manque les autorisations pour 'Envoyer des messages'",
+        "e21": "Il me manque les autorisations \"Embed Links\"",
+        "e22": "La limite est de 10 embeds !"
+      }
+    },
+    "globalchat": {
+      "title": "Chat Global",
+      "options": {
+        "o1": "Mentionner Bot",
+        "o2": "Chaîne :",
+        "o3": "Langue :"
+      }
+    },
+    "tickets": {
+      "title": "Billets",
+      "options": {
+        "o1": "Catégorie :",
+        "o2": "Rôle de soutien :",
+        "o3": "Créer",
+        "o4": "Supprimer",
+        "o5": "Mini",
+        "o6": "Boutons"
+      }
+    }
+  },
+  "error": {
+    "title": "Erreur 404 - Page non trouvée",
+    "topic": "Êtes-vous sûr que ce site existe ?",
+    "description": "Si vous êtes sûr, vous pouvez me contacter, sinon vous pouvez cliquer sur le bouton ci-dessous pour aller au menu."
+  },
+  "index": "Avec presque toutes les fonctions auxquelles vous pouvez penser,\nAinsi qu'une équipe dévouée,\nEsmile est le complément parfait à tout serveur Discord",
+  "partners": "Partenaires",
+  "privacy": {
+    "titles": {
+      "t1": "Politique de Confidentialité",
+      "t2": "Données Stockées",
+      "t3": "Informations Complémentaires"
+    },
+    "descriptions": {
+      "d1": "En ajoutant esmile à votre serveur, vous acceptez la politique relative aux robots.\nN'oubliez pas que vous devez également informer les utilisateurs de votre serveur de notre politique.\nSi vous n'aimez pas notre politique, vous n'avez pas le droit de mettre le bot sur votre serveur.\n\nLa présente politique entre en vigueur le 23 novembre 2021 et a été mise à jour le 28 mars 2022.",
+      "d2": "Pour que le robot fonctionne, nous devons collecter certaines données du serveur et certaines données des utilisateurs.\n\n:m:Données du serveur::m:",
+      "d3": ":p:Noms des chaînes:p:\n:p:Permissions des canaux:p:\n:p:Informations sur les rôles:p:",
+      "d4": ":m:Données utilisateur::m:",
+      "d5": ":p:Avatars d'utilisateurs:p:\n:p:Bannière de l'utilisateur:p:\n:p:Nom d'utilisateur:p:\n:p:Tags utilisateur:p:\n:p:Permis d'utilisateur:p:",
+      "d6": ":p:Les données des utilisateurs, ainsi que la configuration du serveur, parmi d'autres informations. Elles peuvent être supprimées à tout moment.:p:\n:p:Les données des utilisateurs ne peuvent pas être transférées, cela inclut également la configuration du serveur parmi d'autres sections.:p:"
+    }
+  },
+  "terms": {
+    "titles": {
+      "t1": "Modalités et Conditions",
+      "t2": "Important",
+      "t3": "Informations Complémentaires"
+    },
+    "descriptions": {
+      "d1": "En ajoutant esmile à votre serveur, vous acceptez les conditions de notre service.\nN'oubliez pas que vous devez également informer les utilisateurs de votre serveur de nos conditions.\nSi nos conditions ne vous conviennent pas, vous n'avez pas le droit de mettre le bot sur votre serveur.\n\nCes conditions sont en vigueur depuis le 23 novembre 2021 et ont été mises à jour le 27 décembre 2022.",
+      "d2": "Il est interdit d'utiliser esmile contre les :m:ToS De Discord ou à des fins illégales:m:, le développeur évite ces activités autant que possible tout en essayant de fournir la meilleure expérience aux utilisateurs.\nSi vous trouvez un utilisateur ou une communauté qui utilise Esmile contre les :m:ToS De Discord:m: ou même pour des :m:Activités Illégales:m: nous serons obligés de le bloquer du bot\nSi vous constatez une activité de ce type, veuillez nous contacter via le lien suivant :l:Esmile Support Server:l:",
+      "d3": ":p:L'accès aux sections et aux fonctionnalités du bot peut être révoqué et/ou bloqué pour une durée déterminée ou de manière permanente, pour tous les utilisateurs spécifiques, à tout moment souhaité.:p:\n:p:Esmile est un bot ; il n'y a aucune garantie qu'il continuera à fonctionner à l'avenir, nous ne garantissons pas non plus que nous continuerons à utiliser les mêmes commandes ou que l'objectif du bot peut changer à tout moment selon l'intention du développeur.:p:"
+    }
+  },
+  "g": {
+    "invite": "Invitez",
+    "menu": "Menu",
+    "login": "Connexion avec Discord",
+    "web": "Web",
+    "logout": "Déconnexion",
+    "manage": "Gérer",
+    "update": "Mise à jour",
+    "embed": "Embed",
+    "clear": "Clair",
+    "button": "Bouton",
+    "view": "Voir",
+    "text": "Texte",
+    "color": "Couleur",
+    "enable": "Activer",
+    "category": "Catégorie"
+  },
+  "colors": {
+    "gray": "Gris",
+    "blue": "Bleu",
+    "green": "Vert",
+    "red": "Rouge"
+  },
+  "globalActions": {
+    "none": "Aucun",
+    "kick": "Éjecter",
+    "ban": "Bannir"
+  },
+  "nav": {
+    "web": {
+      "terms": "Termes",
+      "privacy": "Vie privée",
+      "dashboard": "Dashboard",
+      "partners": "Partenaires"
+    },
+    "dashboard": {
+      "settings": "Paramètres",
+      "tickets": "Tickets",
+      "globalChat": "ChatGlobal",
+      "autoMod": "AutoMod",
+      "commands": "Commandes",
+      "embeds": "Embeds"
+    }
+  }
+}
