@@ -2,14 +2,14 @@
   "nodb": ":x: | Bir sorun oluştu komutu tekrar kullanın!",
   "disabled_command": ":x: | Bu komut bu sunucuda devre dışı bırakılmıştır!",
   "permisos": {
-    "VIEW_CHANNEL": ":x: | O kanalı izlemek için ViewChannel iznine ihtiyacım var!",
+    "VIEW_CHANNEL": ":x: | O kanalı izlemek için View_Channel iznine ihtiyacım var!",
     "GUILD_CATEGORY": ":x: | Sadece metin veya ses kanallarından bahsedebilirsiniz!",
     "MIS_PERMISOS": ":x: | Düzgün çalışabilmek için {0} izne ihtiyacım var!",
     "USUARIOS": ":x: | Bu komutu kullanabilmek için {0} iznine ihtiyacınız var!",
     "TEXT_ONLY": ":x: | Sadece metin kanallarından bahsedebilirsiniz!",
-    "READ_MESSAGE_HISTORY": ":x: | Düzgün çalışması için ReadMessageHistory iznine ihtiyacım var!",
-    "EMBED_LINKS": ":x: | Düzgün çalışması için EmbedLinks iznine ihtiyacım var!",
-    "USE_EXTERNAL_EMOJIS": ":x: | Düzgün çalışması için UseExternalEmojis iznine ihtiyacım var!",
+    "READ_MESSAGE_HISTORY": ":x: | Düzgün çalışması için Read_Message_History iznine ihtiyacım var!",
+    "EMBED_LINKS": ":x: | Düzgün çalışması için Embed_Links iznine ihtiyacım var!",
+    "USE_EXTERNAL_EMOJIS": ":x: | Düzgün çalışması için Use_External_Emojis iznine ihtiyacım var!",
     "OWNER_SERVER": ":x: | Bu komut sadece sunucu sahibi tarafından kullanılabilir!"
   },
   "mention": {
@@ -117,7 +117,7 @@
     "help23": "Yardımcı program komutlarını görüntüler",
     "help24": "Moderasyon",
     "help25": "Denetleme komutlarını görüntüler",
-    "help26": "© 2021 • 2023 Esmile | {0} help [komuta]",
+    "help26": "© 2021 • 2023 Hedystia | {0} help [komuta]",
     "help27": "Konfigürasyon",
     "help28": "Yapılandırma komutlarını görüntüler",
     "help29": "Etkileşim",
@@ -165,7 +165,7 @@
     "invite4": "Destek",
     "botinfo1": "Gizlilik",
     "botinfo2": "Şartlar",
-    "botinfo3": "__**Yaratıcı:**__ Zastinian#8451\n__**Toplam sunucular:**__ {servers}\n__**Kamu komutları:**__ 70\n__**Eğik çizgi komutları:**__ 42\n__**Dashboard categories:**__ 4\n__**Gösterge tablosu seçenekleri:**__ 8\n__**Kitapçı:**__ Esmile.js\n__**Kütüphane versiyonu:**__ v{versionlib}\n__**NodeJs Sürümü:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Oluşturuldu:**__ {createat}",
+    "botinfo3": "__**Yaratıcı:**__ Zastinian#8451\n__**Toplam sunucular:**__ {servers}\n__**Kamu komutları:**__ 70\n__**Eğik çizgi komutları:**__ 42\n__**Dashboard categories:**__ 4\n__**Gösterge tablosu seçenekleri:**__ 8\n__**Kitapçı:**__ Hedystia.js\n__**Kütüphane versiyonu:**__ v{versionlib}\n__**NodeJs Sürümü:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Oluşturuldu:**__ {createat}",
     "contact1": "Yaratıcımla iletişime geçmek için aşağıdaki sunucuda bir bilet açmalısınız"
   },
   "utility": {
@@ -225,7 +225,7 @@
   "config": {
     "dashboard": {
       "dashboard1": "Gösterge Tablosu",
-      "dashboard2": "Gösterge panelinde yapılandırdığınız Esmile ayarlarının çoğu için aşağıdaki düğmeye dokunun!"
+      "dashboard2": "Gösterge panelinde yapılandırdığınız Hedystia ayarlarının çoğu için aşağıdaki düğmeye dokunun!"
     },
     "interchat": {
       "inter1": ":p: | Kanala doğru şekilde yerleştirilmiştir:",

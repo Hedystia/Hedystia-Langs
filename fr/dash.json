@@ -9,7 +9,7 @@
       "title": "Serveurs",
       "descriptions": {
         "d1": "Modifier la configuration de votre serveur",
-        "d2": "Vous devez ajouter esmile à ce serveur pour pouvoir le configurer"
+        "d2": "Vous devez ajouter hedystia à ce serveur pour pouvoir le configurer"
       }
     },
     "automod": {
@@ -141,7 +141,8 @@
     "topic": "Êtes-vous sûr que ce site existe ?",
     "description": "Si vous êtes sûr, vous pouvez me contacter, sinon vous pouvez cliquer sur le bouton ci-dessous pour aller au menu."
   },
-  "index": "Avec presque toutes les fonctions auxquelles vous pouvez penser,\nAinsi qu'une équipe dévouée,\nEsmile est le complément parfait à tout serveur Discord",
+  "index": "Avec presque toutes les fonctions auxquelles vous pouvez penser,\nAinsi qu'une équipe dévouée,\nHedystia est le complément parfait à tout serveur Discord",
+  "normalIndex": "Hedystia est une entreprise de grands projets qui cherche à innover dans divers secteurs.\nL'accent est mis sur l'innovation,\nL'entreprise s'efforce de créer de nouveaux services",
   "partners": "Partenaires",
   "privacy": {
     "titles": {
@@ -150,7 +151,7 @@
       "t3": "Informations Complémentaires"
     },
     "descriptions": {
-      "d1": "En ajoutant esmile à votre serveur, vous acceptez la politique relative aux robots.\nN'oubliez pas que vous devez également informer les utilisateurs de votre serveur de notre politique.\nSi vous n'aimez pas notre politique, vous n'avez pas le droit de mettre le bot sur votre serveur.\n\nLa présente politique entre en vigueur le 23 novembre 2021 et a été mise à jour le 28 mars 2022.",
+      "d1": "En ajoutant hedystia à votre serveur, vous acceptez la politique relative aux robots.\nN'oubliez pas que vous devez également informer les utilisateurs de votre serveur de notre politique.\nSi vous n'aimez pas notre politique, vous n'avez pas le droit de mettre le bot sur votre serveur.\n\nLa présente politique entre en vigueur le 23 novembre 2021 et a été mise à jour le 28 mars 2022.",
       "d2": "Pour que le robot fonctionne, nous devons collecter certaines données du serveur et certaines données des utilisateurs.\n\n:m:Données du serveur::m:",
       "d3": ":p:Noms des chaînes:p:\n:p:Permissions des canaux:p:\n:p:Informations sur les rôles:p:",
       "d4": ":m:Données utilisateur::m:",
@@ -165,9 +166,9 @@
       "t3": "Informations Complémentaires"
     },
     "descriptions": {
-      "d1": "En ajoutant esmile à votre serveur, vous acceptez les conditions de notre service.\nN'oubliez pas que vous devez également informer les utilisateurs de votre serveur de nos conditions.\nSi nos conditions ne vous conviennent pas, vous n'avez pas le droit de mettre le bot sur votre serveur.\n\nCes conditions sont en vigueur depuis le 23 novembre 2021 et ont été mises à jour le 27 décembre 2022.",
-      "d2": "Il est interdit d'utiliser esmile contre les :m:ToS De Discord ou à des fins illégales:m:, le développeur évite ces activités autant que possible tout en essayant de fournir la meilleure expérience aux utilisateurs.\nSi vous trouvez un utilisateur ou une communauté qui utilise Esmile contre les :m:ToS De Discord:m: ou même pour des :m:Activités Illégales:m: nous serons obligés de le bloquer du bot\nSi vous constatez une activité de ce type, veuillez nous contacter via le lien suivant :l:Esmile Support Server:l:",
-      "d3": ":p:L'accès aux sections et aux fonctionnalités du bot peut être révoqué et/ou bloqué pour une durée déterminée ou de manière permanente, pour tous les utilisateurs spécifiques, à tout moment souhaité.:p:\n:p:Esmile est un bot ; il n'y a aucune garantie qu'il continuera à fonctionner à l'avenir, nous ne garantissons pas non plus que nous continuerons à utiliser les mêmes commandes ou que l'objectif du bot peut changer à tout moment selon l'intention du développeur.:p:"
+      "d1": "En ajoutant hedystia à votre serveur, vous acceptez les conditions de notre service.\nN'oubliez pas que vous devez également informer les utilisateurs de votre serveur de nos conditions.\nSi nos conditions ne vous conviennent pas, vous n'avez pas le droit de mettre le bot sur votre serveur.\n\nCes conditions sont en vigueur depuis le 23 novembre 2021 et ont été mises à jour le 27 décembre 2022.",
+      "d2": "Il est interdit d'utiliser hedystia contre les :m:ToS De Discord ou à des fins illégales:m:, le développeur évite ces activités autant que possible tout en essayant de fournir la meilleure expérience aux utilisateurs.\nSi vous trouvez un utilisateur ou une communauté qui utilise Hedystia contre les :m:ToS De Discord:m: ou même pour des :m:Activités Illégales:m: nous serons obligés de le bloquer du bot\nSi vous constatez une activité de ce type, veuillez nous contacter via le lien suivant :l:Hedystia Support Server:l:",
+      "d3": ":p:L'accès aux sections et aux fonctionnalités du bot peut être révoqué et/ou bloqué pour une durée déterminée ou de manière permanente, pour tous les utilisateurs spécifiques, à tout moment souhaité.:p:\n:p:Hedystia est un bot ; il n'y a aucune garantie qu'il continuera à fonctionner à l'avenir, nous ne garantissons pas non plus que nous continuerons à utiliser les mêmes commandes ou que l'objectif du bot peut changer à tout moment selon l'intention du développeur.:p:"
     }
   },
   "g": {
@@ -185,7 +186,10 @@
     "text": "Texte",
     "color": "Couleur",
     "enable": "Activer",
-    "category": "Catégorie"
+    "category": "Catégorie",
+    "github": "Github",
+    "docs": "Docs",
+    "discord": "Discord"
   },
   "colors": {
     "gray": "Gris",
@@ -202,8 +206,9 @@
     "web": {
       "terms": "Termes",
       "privacy": "Vie privée",
-      "dashboard": "Dashboard",
-      "partners": "Partenaires"
+      "servers": "Serveurs",
+      "partners": "Partenaires",
+      "discord_bot": "Discord Bot"
     },
     "dashboard": {
       "settings": "Paramètres",

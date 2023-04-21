@@ -2,14 +2,14 @@
   "nodb": ":x: | Hubo un problema usa el comando de nuevo!",
   "disabled_command": ":x: | Ese comando se encuentra desactivado en este servidor!",
   "permisos": {
-    "VIEW_CHANNEL": ":x: | Necesito el permiso de ViewChannel para ver ese canal!",
+    "VIEW_CHANNEL": ":x: | Necesito el permiso de View_Channel para ver ese canal!",
     "GUILD_CATEGORY": ":x: | Solo puedes mencionar canales de texto o voz!",
     "MIS_PERMISOS": ":x: | Necesito el permiso de {0} para funcionar correctamente!",
     "USUARIOS": ":x: | Necesitas el permiso de {0} para poder usar este comando!",
     "TEXT_ONLY": ":x: | Solo puedes mencionar canales de texto!",
-    "READ_MESSAGE_HISTORY": ":x: | Necesito el permiso de ReadMessageHistory para funcionar correctamente!",
-    "EMBED_LINKS": ":x: | Necesito el permiso de EmbedLinks para funcionar correctamente!",
-    "USE_EXTERNAL_EMOJIS": ":x: | Necesito el permiso de UseExternalEmojis para funcionar correctamente!",
+    "READ_MESSAGE_HISTORY": ":x: | Necesito el permiso de Read_Message_History para funcionar correctamente!",
+    "EMBED_LINKS": ":x: | Necesito el permiso de Embed_Links para funcionar correctamente!",
+    "USE_EXTERNAL_EMOJIS": ":x: | Necesito el permiso de Use_External_Emojis para funcionar correctamente!",
     "OWNER_SERVER": ":x: | Este comando solo lo puede usar el dueño del servidor!"
   },
   "mention": {
@@ -117,7 +117,7 @@
     "help23": "Muestra los comandos de utilidad",
     "help24": "Moderacion",
     "help25": "Muestra los comandos de moderacion",
-    "help26": "© 2021 • 2023 Esmile | {0} help [command]",
+    "help26": "© 2021 • 2023 Hedystia | {0} help [command]",
     "help27": "Configuracion",
     "help28": "Muestra los comandos de configuracion",
     "help29": "Interaccion",
@@ -165,7 +165,7 @@
     "invite4": "Soporte",
     "botinfo1": "Privacidad",
     "botinfo2": "Terminos",
-    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Comandos publicos:**__ 70\n__**Comandos slash:**__ 42\n__**Categorias del dashboard:**__ 4\n__**Opciones del dashboard:**__ 8\n__**Libreria:**__ Esmile.js.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
+    "botinfo3": "__**Creador:**__ Zastinian#8451\n__**Total de servidores:**__ {servers}\n__**Comandos publicos:**__ 70\n__**Comandos slash:**__ 42\n__**Categorias del dashboard:**__ 4\n__**Opciones del dashboard:**__ 8\n__**Libreria:**__ Hedystia.js.js\n__**Version de Libreria:**__ v{versionlib}\n__**Version de NodeJs:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Creado el dia:**__ {createat}",
     "contact1": "Para contactar a mi creador debes abrir un ticket en el siguiente servidor"
   },
   "utility": {
@@ -225,7 +225,7 @@
   "config": {
     "dashboard": {
       "dashboard1": "Dashboard",
-      "dashboard2": "Para la mayoria de la configuracion de Esmile se configura en el dashboard para ir toca el boton de abajo!"
+      "dashboard2": "Para la mayoria de la configuracion de Hedystia se configura en el dashboard para ir toca el boton de abajo!"
     },
     "interchat": {
       "inter1": ":p: | Se puso correctamente en el canal:",

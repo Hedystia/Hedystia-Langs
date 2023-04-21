@@ -2,14 +2,14 @@
   "nodb": ":x: | Il y a eu un problème, utilisez la commande à nouveau !",
   "disabled_command": ":x: | Cette commande est désactivée sur ce serveur !",
   "permisos": {
-    "VIEW_CHANNEL": ":x: | J'ai besoin de la permission de ViewChannel pour regarder cette chaîne !",
+    "VIEW_CHANNEL": ":x: | J'ai besoin de la permission de View_Channel pour regarder cette chaîne !",
     "GUILD_CATEGORY": ":x: | Vous ne pouvez mentionner que les canaux textuels ou vocaux !",
     "MIS_PERMISOS": ":x: | J'ai besoin de la permission de {0} pour fonctionner correctement !",
     "USUARIOS": ":x: | Vous devez avoir la permission {0} pour pouvoir utiliser cette commande !",
     "TEXT_ONLY": ":x: | Vous ne pouvez mentionner que les chaînes de texte !",
-    "READ_MESSAGE_HISTORY": ":x: | J'ai besoin de la permission ReadMessageHistory pour fonctionner correctement !",
-    "EMBED_LINKS": ":x: | J'ai besoin de l'autorisation de EmbedLinks pour fonctionner correctement !",
-    "USE_EXTERNAL_EMOJIS": ":x: | J'ai besoin de la permission de UseExternalEmojis pour fonctionner correctement !",
+    "READ_MESSAGE_HISTORY": ":x: | J'ai besoin de la permission Read_Message_History pour fonctionner correctement !",
+    "EMBED_LINKS": ":x: | J'ai besoin de l'autorisation de Embed_Links pour fonctionner correctement !",
+    "USE_EXTERNAL_EMOJIS": ":x: | J'ai besoin de la permission de Use_External_Emojis pour fonctionner correctement !",
     "OWNER_SERVER": ":x: | Cette commande ne peut être utilisée que par le propriétaire du serveur !"
   },
   "mention": {
@@ -117,7 +117,7 @@
     "help23": "Affiche les commandes de l'utilitaire",
     "help24": "Modération",
     "help25": "Affiche les commandes de modération",
-    "help26": "© 2021 • 2023 Esmile | {0} help [commande]",
+    "help26": "© 2021 • 2023 Hedystia | {0} help [commande]",
     "help27": "Configuration",
     "help28": "Affiche les commandes de configuration",
     "help29": "Interaction",
@@ -165,7 +165,7 @@
     "invite4": "Soutien",
     "botinfo1": "Vie privée",
     "botinfo2": "Conditions",
-    "botinfo3": "__**Créateur:**__ Zastinian#8451\n__**Total des serveurs :**__ {servers\n__**Commandes publiques :**__ 70\n__**Des commandes de type slash :**__ 42\n__**Catégories de tableaux de bord :**__ 4\n__**Options du tableau de bord :**__ 8\n__**Librairie :**__ Esmile.js\n__**Version de la bibliothèque :**__ v{versionlib}\n__**Version de NodeJs :**__ v{nodeversion}\n__**Ping :**__ {ping}ms\n__**Créé le :**__ {createat}",
+    "botinfo3": "__**Créateur:**__ Zastinian#8451\n__**Total des serveurs :**__ {servers\n__**Commandes publiques :**__ 70\n__**Des commandes de type slash :**__ 42\n__**Catégories de tableaux de bord :**__ 4\n__**Options du tableau de bord :**__ 8\n__**Librairie :**__ Hedystia.js\n__**Version de la bibliothèque :**__ v{versionlib}\n__**Version de NodeJs :**__ v{nodeversion}\n__**Ping :**__ {ping}ms\n__**Créé le :**__ {createat}",
     "contact1": "Pour contacter mon créateur, vous devez ouvrir un ticket sur le serveur suivant"
   },
   "utility": {
@@ -225,7 +225,7 @@
   "config": {
     "dashboard": {
       "dashboard1": "Tableau de bord",
-      "dashboard2": "Pour la plupart des paramètres d'Esmile, vous configurez sur le tableau de bord pour aller taper le bouton ci-dessous !"
+      "dashboard2": "Pour la plupart des paramètres d'Hedystia, vous configurez sur le tableau de bord pour aller taper le bouton ci-dessous !"
     },
     "interchat": {
       "inter1": ":p: | Il a été correctement placé dans le canal :",

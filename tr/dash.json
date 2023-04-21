@@ -9,7 +9,7 @@
       "title": "Sunucular",
       "descriptions": {
         "d1": "Sunucu yapılandırmanızı düzenleme",
-        "d2": "Yapılandırabilmek için bu sunucuya esmile eklemeniz gerekir"
+        "d2": "Yapılandırabilmek için bu sunucuya hedystia eklemeniz gerekir"
       }
     },
     "automod": {
@@ -141,7 +141,8 @@
     "topic": "Bu sitenin var olduğuna emin misin?",
     "description": "Eğer eminseniz benimle iletişime geçebilirsiniz, değilseniz menüye gitmek için aşağıdaki butona tıklayabilirsiniz."
   },
-  "index": "Aklınıza gelebilecek neredeyse her özelliğe sahip,\nÖzel bir personelin yanı sıra,\nEsmile her Discord sunucusu için mükemmel bir tamamlayıcıdır",
+  "index": "Aklınıza gelebilecek neredeyse her özelliğe sahip,\nÖzel bir personelin yanı sıra,\nHedystia her Discord sunucusu için mükemmel bir tamamlayıcıdır",
+  "normalIndex": "Hedystia, çeşitli sektörlerde yenilik yapmayı amaçlayan büyük projelere imza atan bir şirkettir.\nİnovasyona odaklanarak,\nŞirket yeni hizmetler yaratmaya çalışıyor",
   "partners": "Ortaklar",
   "privacy": {
     "titles": {
@@ -150,7 +151,7 @@
       "t3": "Ek Bilgi"
     },
     "descriptions": {
-      "d1": "Sunucunuza esmile ekleyerek bot politikasını kabul etmiş olursunuz.\nSunucunuzdaki kullanıcıları da politikamız hakkında bilgilendirmeniz gerektiğini unutmayın.\nPolitikamızı beğenmiyorsanız, botu sunucunuza koyma hakkınız yoktur.\n\nBu politika 23 Kasım 2021 tarihinden itibaren geçerlidir ve en son 28 Mart 2022 tarihinde güncellenmiştir.",
+      "d1": "Sunucunuza hedystia ekleyerek bot politikasını kabul etmiş olursunuz.\nSunucunuzdaki kullanıcıları da politikamız hakkında bilgilendirmeniz gerektiğini unutmayın.\nPolitikamızı beğenmiyorsanız, botu sunucunuza koyma hakkınız yoktur.\n\nBu politika 23 Kasım 2021 tarihinden itibaren geçerlidir ve en son 28 Mart 2022 tarihinde güncellenmiştir.",
       "d2": "Botun çalışması için sunucudan bazı veriler ve kullanıcılardan bazı veriler toplamalıyız.\n\n:m:Sunucu Verileri::m:",
       "d3": ":p:Kanal İsimleri:p:\n:p:Kanal İzinleri:p:\n:p:Rol Bilgileri:p:",
       "d4": ":m:Kullanıcı Verileri::m:",
@@ -165,9 +166,9 @@
       "t3": "Ek Bilgi"
     },
     "descriptions": {
-      "d1": "Sunucunuza esmile ekleyerek hizmet şartlarımızı kabul etmiş olursunuz.\nSunucunuzdaki kullanıcılara da şartlarımız hakkında bilgi vermeniz gerektiğini unutmayın.\nŞartlarımızı beğenmiyorsanız, botu sunucunuza koyma hakkınız yoktur.\n\nBu koşullar 23 Kasım 2021 tarihinden itibaren geçerlidir ve en son 27 Aralık 2022 tarihinde güncellenmiştir.",
-      "d2": "Esmile'i :m:ToS De Discord veya Yasadışı Amaçlar:m:'a karşı kullanmak yasaktır, geliştirici, kullanıcılar için en iyi deneyimi sağlamaya çalışırken bu faaliyetlerden mümkün olduğunca kaçınmaktadır.\nEsmile'i :m:Discord ToS:m:'a karşı veya hatta :m:Illegal Activities:m: için kullanan bir kullanıcı veya topluluk bulursanız, bottan engellemek zorunda kalacağız\nYukarıda belirtilen herhangi bir etkinlik bulursa, lütfen aşağıdaki bağlantı aracılığıyla iletişime geçin :l:Esmile Destek Sunucusu:l:",
-      "d3": ":p:Botun bölümlerine ve özelliklerine erişim, belirli bir süre için veya kalıcı olarak, tüm belirli kullanıcılar için, istenen herhangi bir zamanda iptal edilebilir ve/veya engellenebilir.:p:\n:p:Esmile bir bottur, gelecekte çalışmaya devam edeceğinin garantisi yoktur, aynı komutları kullanmaya devam edeceğimizi de garanti etmiyoruz veya botun amacı geliştiricinin istediği herhangi bir zamanda değişebilir.:p:"
+      "d1": "Sunucunuza hedystia ekleyerek hizmet şartlarımızı kabul etmiş olursunuz.\nSunucunuzdaki kullanıcılara da şartlarımız hakkında bilgi vermeniz gerektiğini unutmayın.\nŞartlarımızı beğenmiyorsanız, botu sunucunuza koyma hakkınız yoktur.\n\nBu koşullar 23 Kasım 2021 tarihinden itibaren geçerlidir ve en son 27 Aralık 2022 tarihinde güncellenmiştir.",
+      "d2": "Hedystia'i :m:ToS De Discord veya Yasadışı Amaçlar:m:'a karşı kullanmak yasaktır, geliştirici, kullanıcılar için en iyi deneyimi sağlamaya çalışırken bu faaliyetlerden mümkün olduğunca kaçınmaktadır.\nHedystia'i :m:Discord ToS:m:'a karşı veya hatta :m:Illegal Activities:m: için kullanan bir kullanıcı veya topluluk bulursanız, bottan engellemek zorunda kalacağız\nYukarıda belirtilen herhangi bir etkinlik bulursa, lütfen aşağıdaki bağlantı aracılığıyla iletişime geçin :l:Hedystia Destek Sunucusu:l:",
+      "d3": ":p:Botun bölümlerine ve özelliklerine erişim, belirli bir süre için veya kalıcı olarak, tüm belirli kullanıcılar için, istenen herhangi bir zamanda iptal edilebilir ve/veya engellenebilir.:p:\n:p:Hedystia bir bottur, gelecekte çalışmaya devam edeceğinin garantisi yoktur, aynı komutları kullanmaya devam edeceğimizi de garanti etmiyoruz veya botun amacı geliştiricinin istediği herhangi bir zamanda değişebilir.:p:"
     }
   },
   "g": {
@@ -185,7 +186,10 @@
     "text": "Metin",
     "color": "Renk",
     "enable": "Etkinleştir",
-    "category": "Kategori"
+    "category": "Kategori",
+    "github": "Github",
+    "docs": "Docs",
+    "discord": "Discord"
   },
   "colors": {
     "gray": "Gri",
@@ -202,8 +206,9 @@
     "web": {
       "terms": "Şartlar",
       "privacy": "Gizlilik",
-      "dashboard": "Gösterge Tablosu",
-      "partners": "Ortaklar"
+      "servers": "Sunucular",
+      "partners": "Ortaklar",
+      "discord_bot": "Discord Botu"
     },
     "dashboard": {
       "settings": "Ayarlar",
