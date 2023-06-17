@@ -2,14 +2,14 @@
   "nodb": ":x: | There was a problem use the command again!",
   "disabled_command": ":x: | This command is disabled on this server!",
   "permisos": {
-    "VIEW_CHANNEL": ":x: | I need View_Channel permission to watch that channel!",
+    "VIEW_CHANNEL": ":x: | I need ViewChannel permission to watch that channel!",
     "GUILD_CATEGORY": ":x: | You can only mention text or voice channels!",
     "MIS_PERMISOS": ":x: | I need {0} permission to function properly!",
     "USUARIOS": ":x: | You need the {0} permission to be able to use this command!",
     "TEXT_ONLY": ":x: | You can only mention text channels!",
-    "READ_MESSAGE_HISTORY": ":x: | I need the Read_Message_History permission to work properly!",
-    "EMBED_LINKS": ":x: | I need Embed_Links permission to work properly!",
-    "USE_EXTERNAL_EMOJIS": ":x: | I need Use_External_Emojis permission to work properly!",
+    "READ_MESSAGE_HISTORY": ":x: | I need the ReadMessageHistory permission to work properly!",
+    "EMBED_LINKS": ":x: | I need EmbedLinks permission to work properly!",
+    "USE_EXTERNAL_EMOJIS": ":x: | I need UseExternalEmojis permission to work properly!",
     "OWNER_SERVER": ":x: | This command can only be used by the server owner!"
   },
   "mention": {
@@ -165,7 +165,7 @@
     "invite4": "Support",
     "botinfo1": "Privacy",
     "botinfo2": "Terms",
-    "botinfo3": "__**Creator:**__ Zastinian#8451\n__**Total servers:**__ {servers}\n__**Public commands:**__ 70\n__**Slash commands:**__ 42\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Hedystia.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
+    "botinfo3": "__**Creator:**__ Zastinian\n__**Total servers:**__ {servers}\n__**Public commands:**__ 70\n__**Slash commands:**__ 54\n__**Dashboard categories:**__ 4\n__**Dashboard options:**__ 8\n__**Bookstore:**__ Hedystia.js\n__**Library Version:**__ v{versionlib}\n__**NodeJs Version:**__ v{nodeversion}\n__**Ping:**__ {ping}ms\n__**Created on:**__ {createat}",
     "contact1": "To contact my creator you must open a ticket on the following server"
   },
   "utility": {
