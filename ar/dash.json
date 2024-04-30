@@ -142,9 +142,9 @@
       "title": "التذاكر"
     },
     "verify": {
-      "button": "Button Text",
-      "title": "Verification",
-      "role": "Verification Role"
+      "button": "نص الزر",
+      "title": "التحقق",
+      "role": "رول التحقق"
     }
   },
   "error": {
@@ -186,7 +186,7 @@
       "globalChat": "الشات العالمي",
       "settings": "الإعدادات",
       "tickets": "التذاكر",
-      "verify": "Verification"
+      "verify": "التحقق"
     },
     "web": {
       "discord_bot": "سيرفر البوت",

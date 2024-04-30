@@ -189,15 +189,15 @@
   },
   "logs": {
     "channelCreate": {
-      "channel1": "Channel Created",
-      "channel2": "A new channel has been created!",
-      "channel3": "Channel",
-      "channel4": "Channel Name",
-      "channel5": "Channel ID",
-      "channel6": "Channel Type",
-      "channel7": "Creator",
-      "channel8": "Creator ID",
-      "channel9": "Logs"
+      "channel1": "تم انشاء روم",
+      "channel2": "تم إنشاء روم جديد!",
+      "channel3": "روم",
+      "channel4": "اسم الروم",
+      "channel5": "ايدي الروم",
+      "channel6": "نوع الروم",
+      "channel7": "المؤلف",
+      "channel8": "ايدي المؤلف",
+      "channel9": "اللوق"
     }
   },
   "marry": {
@@ -349,13 +349,13 @@
     "emoji3": ":p: | تمت إضافة الرموز التعبيرية بنجاح!"
   },
   "verify": {
-    "config": ":p: | If you want to configure the verify section you can do it from the dashboard",
-    "error_send": ":x: | You have not configured the section I cannot send it.",
-    "cooldown": ":x: | You are in the 3-minute cooldown!",
-    "done": "Done?",
-    "already": "Already verified!",
-    "ok": "Ok!",
-    "available": ":x: | The role is not available or my role is below it.",
-    "incorrect": ":x: | It is incorrect or you took more than 3 minutes!"
+    "config": ":p: | إذا كنت ترغب في اعداد قسم التحقق يمكنك القيام بذلك من لوحة التحكم",
+    "error_send": ":x: | لم تقم ب اعداد القسم لا يمكنني ارساله.",
+    "cooldown": ":x: | انت في فترة الانتظار 3 دقائق!",
+    "done": "انتهى؟",
+    "already": "تم التحقق مسبقاً!",
+    "ok": "حسنا!",
+    "available": ":x: | الرول غير متوفر او الرول الخاص بي تحته.",
+    "incorrect": ":x: | غير صحيح او استغرقت اكثر من 3 دقائق!"
   }
 }
